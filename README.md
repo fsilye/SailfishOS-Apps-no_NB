@@ -25,7 +25,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
 - [Noson](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/noson_nb.ts): En fjernkontrollapp for Sonos
   - [Last ned fra Chum](https://sailfishos-chum.github.io/apps/noson-app/)
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
-  - [Last ned fra OpenRepos]
+  - [Last ned fra OpenRepos](https://openrepos.net/content/seiichiro0185/sailotp)
 - [Storeman](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-storeman-no.ts): Alternativ App Store for SailfishOS
   - [Last ned fra OpenRepos](https://openrepos.net/content/olf/storeman-installer)
 - [Tidings](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tidings-nb.ts): En RSS-leser
