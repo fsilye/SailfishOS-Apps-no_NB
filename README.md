@@ -14,8 +14,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos](https://openrepos.net/content/rikudousennin/bitsailor)
 - [Bugger!](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bugger-no.ts): Feilrapporteringsverktøy
   - [Last ned fra OpenRepos](https://openrepos.net/content/nephros/bugger)
-- [Captain's Log](https://hosted.weblate.org/projects/harbour-file-browser/-/nb_NO/): Dagboksapp
-  - [Last ned fra OpenRepos]
+- [Camera Buddy](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-camera-buddy-no_NB.ts): Verktøy for å overføre bilder fra digitale kameraer
 - [Chum GUI app](https://github.uio.no/frankps/sailfishos/blob/main/sailfishos-chum-gui-no.ts): Alternativ App Store
   - [Last ned fra OpenRepos]
 - [Mattermost](https://github.uio.no/frankps/sailfishos/blob/main/harbour-mattermost-nb.ts): En uoffisiell klient for chat-tjenesten Mattermost
