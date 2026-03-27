@@ -13,7 +13,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
 - [BitSailor](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-bitsailor-nb_NO.ts): En Bitwarden-klient, for dem som ønsker å bruke det samme programmet for passordhåndtering på alle plattformer
   - [Last ned fra OpenRepos](https://openrepos.net/content/rikudousennin/bitsailor)
 - [Bugger!](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bugger-no.ts): Feilrapporteringsverktøy
-  - [Last ned fra OpenRepos]
+  - [Last ned fra OpenRepos](https://openrepos.net/content/nephros/bugger)
 - [Captain's Log](https://hosted.weblate.org/projects/harbour-file-browser/-/nb_NO/): Dagboksapp
   - [Last ned fra OpenRepos]
 - [Chum GUI app](https://github.uio.no/frankps/sailfishos/blob/main/sailfishos-chum-gui-no.ts): Alternativ App Store
