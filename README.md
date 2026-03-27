@@ -15,8 +15,9 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
 - [Bugger!](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bugger-no.ts): Feilrapporteringsverktøy
   - [Last ned fra OpenRepos](https://openrepos.net/content/nephros/bugger)
 - [Camera Buddy](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-camera-buddy-no_NB.ts): Verktøy for å overføre bilder fra digitale kameraer
-- [Chum GUI app](https://github.uio.no/frankps/sailfishos/blob/main/sailfishos-chum-gui-no.ts): Alternativ App Store
-  - [Last ned fra OpenRepos]
+  - [Last ned fra OpenRepos](https://openrepos.net/content/karry/camera-buddy)
+- [Chum GUI app](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/sailfishos-chum-gui-no.ts): Alternativ App Store
+  - [Last ned fra OpenRepos](https://openrepos.net/content/olf/sailfishoschum-gui-installer)
 - [Mattermost](https://github.uio.no/frankps/sailfishos/blob/main/harbour-mattermost-nb.ts): En uoffisiell klient for chat-tjenesten Mattermost
   - [Last ned fra OpenRepos]
 - [Noson](https://github.uio.no/frankps/sailfishos/blob/main/noson_nb.ts): En fjernkontrollapp for Sonos
