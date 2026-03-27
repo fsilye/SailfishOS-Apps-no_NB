@@ -8,28 +8,34 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
 **Kom gjerne med forslag til forbedringer!**
 
 **Programvare oversatt på norsk:**
-- [Advanced Camera](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-advanced-camera-nb.ts): Kamera app med utvidet funksjonalitet.
-  - [Last ned fra OpenRepos](https://openrepos.net/content/piggz/advanced-camera).
+- [Advanced Camera](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-advanced-camera-nb.ts): Kamera app med utvidet funksjonalitet
+  - [Last ned fra OpenRepos](https://openrepos.net/content/piggz/advanced-camera)
 - [BitSailor]([https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-bitsailor-nb_NO.ts): En Bitwarden-klient, for dem som ønsker å bruke det samme programmet for passordhåndtering på alle plattformer
   - [Last ned fra OpenRepos](https://openrepos.net/content/rikudousennin/bitsailor)
-- [Bugger!](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bugger-no.ts)
+- [Bugger!](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bugger-no.ts): Feilrapporteringsverktøy
+  - [Last ned fra OpenRepos]
 - [Captain's Log](https://hosted.weblate.org/projects/harbour-file-browser/-/nb_NO/): Dagboksapp
+  - [Last ned fra OpenRepos]
 - [Chum GUI app](https://github.uio.no/frankps/sailfishos/blob/main/sailfishos-chum-gui-no.ts): Alternativ App Store
-- [Dashboard]([https://hosted.weblate.org/projects/harbour-dashboard/](https://hosted.weblate.org/projects/harbour-dashboard/-/nb_NO/): Oversiktsverktøy
-- [File Browser](https://hosted.weblate.org/projects/harbour-file-browser/-/nb_NO/): Filbehandler app
+  - [Last ned fra OpenRepos]
 - [Mattermost](https://github.uio.no/frankps/sailfishos/blob/main/harbour-mattermost-nb.ts): En uoffisiell klient for chat-tjenesten Mattermost
-- [Minidoro](https://hosted.weblate.org/projects/harbour-minidoro/-/nb_NO/)
-- [NewPipe](https://hosted.weblate.org/projects/harbour-newpipe/harbour-newpipe/): En klient for Youtube og andre strømmetjenester
+  - [Last ned fra OpenRepos]
 - [Noson](https://github.uio.no/frankps/sailfishos/blob/main/noson_nb.ts): En fjernkontrollapp for Sonos
-- [OPAL for SailfishOS](https://hosted.weblate.org/projects/opal/)
+  - [Last ned fra OpenRepos]
 - [Rockpool](https://openrepos.net/content/abranson/rockpool): En app for å koble til din Pebble klokke
+  - [Last ned fra OpenRepos]
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
+  - [Last ned fra OpenRepos]
 - [Sailtrix](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailtrix-nb.ts): Matrix chat-klient
+  - [Last ned fra OpenRepos]
 - [Storeman](https://openrepos.net/content/olf/storeman-installer-nb.ts): Alternativ App Store for SailfishOS
+  - [Last ned fra OpenRepos]
 - [Tidings](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tidings-nb.ts): En RSS-leser
+  - [Last ned fra OpenRepos]
 - [To-do List](https://hosted.weblate.org/projects/harbour-todolist/translations/nb_NO/): Gjøremålsapp
+  - [Last ned fra OpenRepos]
 - [Tooter](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tooter-nb.ts): En klient for det sosiale nettverket Mastodon
-- [Whisperfish](https://hosted.weblate.org/projects/whisperfish/whisperfish-application/): En chat-klient som bruker Whisper-protokollen til Signal
+  - [Last ned fra OpenRepos]
 
 **Programvare som oversettes til norsk:**
 - [Beginner's Guide](https://github.com/RikudouSage/SfosBeginnerGuide): En introduksjon til apper, repoer og tjenester knyttet til SailfishOS
