@@ -22,8 +22,8 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos](https://openrepos.net/content/mkiol/kaktus)
 - [Mattermost](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-mattermost-nb.ts): En uoffisiell klient for chat-tjenesten Mattermost
   - [Last ned fra OpenRepos](https://openrepos.net/content/sashikknox/mattermost)
-- [Noson](https://github.uio.no/frankps/sailfishos/blob/main/noson_nb.ts): En fjernkontrollapp for Sonos
-  - [Last ned fra OpenRepos]
+- [Noson](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/noson_nb.ts): En fjernkontrollapp for Sonos
+  - [Last ned fra Chum](https://sailfishos-chum.github.io/apps/noson-app/)
 - [Rockpool](https://openrepos.net/content/abranson/rockpool): En app for å koble til din Pebble klokke
   - [Last ned fra OpenRepos]
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
