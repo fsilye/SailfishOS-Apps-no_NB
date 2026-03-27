@@ -8,7 +8,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
 **Kom gjerne med forslag til forbedringer!**
 
 **Programvare oversatt på norsk:**
-- [Advanced Camera](https://github.uio.no/frankps/sailfishos/blob/main/harbour-advanced-camera-nb.ts): Kamera app med utvidet funksjonalitet
+- [Advanced Camera](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-advanced-camera-nb.ts): Kamera app med utvidet funksjonalitet. [Last ned fra OpenRepos](https://openrepos.net/content/piggz/advanced-camera).
 - [BitSailor](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bitsailor-nb.ts): En Bitwarden-klient, for dem som ønsker å bruke det samme programmet for passordhåndtering på alle plattformer
 - [Bugger!](https://github.uio.no/frankps/sailfishos/blob/main/harbour-bugger-no.ts)
 - [Captain's Log](https://hosted.weblate.org/projects/harbour-file-browser/-/nb_NO/): Dagboksapp
