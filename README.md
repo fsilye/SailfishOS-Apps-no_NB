@@ -26,19 +26,18 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra Chum](https://sailfishos-chum.github.io/apps/noson-app/)
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
   - [Last ned fra OpenRepos]
-- [Storeman](https://openrepos.net/content/olf/storeman-installer-nb.ts): Alternativ App Store for SailfishOS
-  - [Last ned fra OpenRepos]
+- [Storeman](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-storeman-no.ts): Alternativ App Store for SailfishOS
+  - [Last ned fra OpenRepos](https://openrepos.net/content/olf/storeman-installer)
 - [Tidings](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tidings-nb.ts): En RSS-leser
   - [Last ned fra OpenRepos]
 - [To-do List](https://hosted.weblate.org/projects/harbour-todolist/translations/nb_NO/): Gjøremålsapp
   - [Last ned fra OpenRepos]
-- [Tooter](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tooter-nb.ts): En klient for det sosiale nettverket Mastodon
+- [Tooter β](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tooter-nb.ts): En klient for det sosiale nettverket Mastodon
   - [Last ned fra OpenRepos]
 
 [Annen programvare som er oversatt](https://hosted.weblate.org/user/frankps/) med oversettelsestjenesten Weblate.
 
-**Programvare som oversettes til norsk:**
-- [Beginner's Guide](https://github.com/RikudouSage/SfosBeginnerGuide): En introduksjon til apper, repoer og tjenester knyttet til SailfishOS
+
 
 
 
