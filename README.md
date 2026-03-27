@@ -28,8 +28,6 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos]
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
   - [Last ned fra OpenRepos]
-- [Sailtrix](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailtrix-nb.ts): Matrix chat-klient
-  - [Last ned fra OpenRepos]
 - [Storeman](https://openrepos.net/content/olf/storeman-installer-nb.ts): Alternativ App Store for SailfishOS
   - [Last ned fra OpenRepos]
 - [Tidings](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tidings-nb.ts): En RSS-leser
