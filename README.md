@@ -7,7 +7,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
 
 **Kom gjerne med forslag til forbedringer!**
 
-**Programvare oversatt på norsk:**
+## Programvare oversatt på norsk
 - [Advanced Camera](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-advanced-camera-nb.ts): Kamera app med utvidet funksjonalitet
   - [Last ned fra OpenRepos](https://openrepos.net/content/piggz/advanced-camera)
 - [BitSailor](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-bitsailor-nb_NO.ts): En Bitwarden-klient, for dem som ønsker å bruke det samme programmet for passordhåndtering på alle plattformer
@@ -38,6 +38,8 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos]
 - [Tooter](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tooter-nb.ts): En klient for det sosiale nettverket Mastodon
   - [Last ned fra OpenRepos]
+
+[Annen programvare som er oversatt](https://hosted.weblate.org/user/frankps/) med oversettelsestjenesten Weblate.
 
 **Programvare som oversettes til norsk:**
 - [Beginner's Guide](https://github.com/RikudouSage/SfosBeginnerGuide): En introduksjon til apper, repoer og tjenester knyttet til SailfishOS
