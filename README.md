@@ -28,8 +28,8 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos](https://openrepos.net/content/seiichiro0185/sailotp)
 - [Storeman](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-storeman-no.ts): Alternativ App Store for SailfishOS
   - [Last ned fra OpenRepos](https://openrepos.net/content/olf/storeman-installer)
-- [Tidings](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tidings-nb.ts): En RSS-leser
-  - [Last ned fra OpenRepos]
+- [Tidings](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-tidings-nb.ts): En RSS-leser
+  - [Last ned fra OpenRepos](https://openrepos.net/content/poetaster/tidings)
 - [To-do List](https://hosted.weblate.org/projects/harbour-todolist/translations/nb_NO/): Gjøremålsapp
   - [Last ned fra OpenRepos]
 - [Tooter β](https://github.uio.no/frankps/sailfishos/blob/main/harbour-tooter-nb.ts): En klient for det sosiale nettverket Mastodon
