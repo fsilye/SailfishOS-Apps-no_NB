@@ -382,19 +382,19 @@
 </phrase>
 <phrase>
     <source>Failed to activate Patch</source>
-    <target></target>
+    <target>Kunne ikke aktivere patch<</target>
 </phrase>
 <phrase>
     <source>Activating Patch %1 failed!</source>
-    <target></target>
+    <target>Aktivering av patch %1 mislyktes!</target>
 </phrase>
 <phrase>
     <source>Failed to deactivate Patch</source>
-    <target></target>
+    <target>Kunne ikke deaktivere patch</target>
 </phrase>
 <phrase>
     <source>Deactivating Patch %1 failed!</source>
-    <target></target>
+    <target>Deaktivering av patch %1 mislyktes!</target>
 </phrase>
 <phrase>
     <source>Update available</source>
