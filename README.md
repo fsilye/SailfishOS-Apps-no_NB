@@ -24,6 +24,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos](https://openrepos.net/content/sashikknox/mattermost)
 - [Noson](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/noson_nb.ts): En fjernkontrollapp for Sonos
   - [Last ned fra Chum](https://sailfishos-chum.github.io/apps/noson-app/)
+- [Patchmanager]: Administrasjonsverktøy for små programvaretillegg. Under oversettelse.
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
   - [Last ned fra OpenRepos](https://openrepos.net/content/seiichiro0185/sailotp)
 - [Storeman](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-storeman-no.ts): Alternativ App Store for SailfishOS
