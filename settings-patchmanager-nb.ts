@@ -246,23 +246,23 @@
 </phrase>
 <phrase>
     <source>Some services will be restarted now. Reloading the homescreen of the device might take a little time.</source>
-    <target></target>
+    <target>Enkelte tjenester vil nå bli startet på nytt. Det kan ta litt tid å laste inn startskjermen på enheten på nytt.</target>
 </phrase>
 <phrase>
     <source>List of services:</source>
-    <target></target>
+    <target><Oversikt over tjenester:/target>
 </phrase>
 <phrase>
     <source>Note that this will close all apps.</source>
-    <target></target>
+    <target><Merk at dette vil lukke alle apper./target>
 </phrase>
 <phrase>
     <source>Note that this will close %1.</source>
-    <target></target>
+    <target>Merk at dette vil lukke %1.</target>
 </phrase>
 <phrase>
     <source>Note that this will close the %1 app.</source>
-    <target></target>
+    <target>Merk at dette vil lukke appen %1</target>
 </phrase>
 <phrase>
     <source>Screenshots</source>
@@ -298,31 +298,31 @@
 </phrase>
 <phrase>
     <source>Tap to enter search query</source>
-    <target></target>
+    <target>Trykk for å søke</target>
 </phrase>
 <phrase>
     <source>Update available: %1</source>
-    <target></target>
+    <target>Oppdatering tilgjengelig: %1</target>
 </phrase>
 <phrase>
     <source>The Web Catalog website may be experiencing issues, or there is a problem connecting to the Internet.</source>
-    <target></target>
+    <target>Web Catalog-nettstedet kan oppleve problemer, eller det er problemer med tilkoblingen til internett.</target>
 </phrase>
 <phrase>
     <source>Failed to fetch Patch data</source>
-    <target></target>
+    <target>Kunne ikke hente data for patch</target>
 </phrase>
 <phrase>
     <source>Fetching patch data</source>
-    <target></target>
+    <target>Henter data for patch</target>
 </phrase>
 <phrase>
     <source>Open Project Page</source>
-    <target></target>
+    <target>Åpne prosjektside</target>
 </phrase>
 <phrase>
     <source>Author: %1</source>
-    <target></target>
+    <target>Utvikler: %1</target>
 </phrase>
 <phrase>
     <source>Links</source>
@@ -334,19 +334,19 @@
 </phrase>
 <phrase>
     <source>Install Patch %1</source>
-    <target></target>
+    <target>Installer patch %1</target>
 </phrase>
 <phrase>
     <source>Re-Install Patch %1</source>
-    <target></target>
+    <target>Reinstaller patch %1</target>
 </phrase>
 <phrase>
     <source>Patch details</source>
-    <target></target>
+    <target>Detaljer om patch</target>
 </phrase>
 <phrase>
     <source>[tap to re-install]</source>
-    <target></target>
+    <target>[trykk for å reinstallere]</target>
 </phrase>
 <phrase>
     <source>[installed]</source>
@@ -354,31 +354,31 @@
 </phrase>
 <phrase>
     <source>[tap to install]</source>
-    <target></target>
+    <target>[trykk for å installere]</target>
 </phrase>
 <phrase>
     <source>Compatible: %1</source>
-    <target></target>
+    <target>Kompatibel: %1</target>
 </phrase>
 <phrase>
     <source>Patch activated</source>
-    <target></target>
+    <target>Patch aktivert</target>
 </phrase>
 <phrase>
     <source>Patch %1 activated</source>
-    <target></target>
+    <target>Patch %1 aktivert</target>
 </phrase>
 <phrase>
     <source>some service(s) should be restarted.</source>
-    <target></target>
+    <target>noen tjenester bør startes på nytt.</target>
 </phrase>
 <phrase>
     <source>Patch deactivated</source>
-    <target></target>
+    <target>Patch deaktivert</target>
 </phrase>
 <phrase>
     <source>Patch %1 is now inactive.</source>
-    <target></target>
+    <target>Patch %1 er nå inaktiv.(</target>
 </phrase>
 <phrase>
     <source>Failed to activate Patch</source>
