@@ -26,7 +26,7 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra Chum](https://sailfishos-chum.github.io/apps/noson-app/)
 - [Patchmanager](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/settings-patchmanager-nb.ts): Administrasjonsverktøy for små programvaretillegg. Under oversettelse.
   - [Last ned fra OpenRepos]
-  - [Launcher combined patch](https://github.com/carmenfdezb/patch_launcher_combined): Patchen lar deg forstørre ikonene og gruppere apper.
+  - [Launcher combined patch](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/translation_nb_NO.qm): Patchen lar deg forstørre ikonene og gruppere apper. Kildekode på [Gitub](https://github.com/carmenfdezb/patch_launcher_combined).
 - [SailOTP](https://github.uio.no/frankps/sailfishos/blob/main/harbour-sailotp-nb.ts): En MFA-app
   - [Last ned fra OpenRepos](https://openrepos.net/content/seiichiro0185/sailotp)
 - [Storeman](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-storeman-no.ts): Alternativ App Store for SailfishOS
