@@ -54,15 +54,15 @@
 </phrase>
 <phrase>
     <source>Donations</source>
-    <target></target>
+    <target>Donasjoner</target>
 </phrase>
 <phrase>
     <source>If you appreciate our work, please consider a donation to help covering the hosting costs for OpenRepos. OpenRepos is critical infrastructure specifically for Patchmanager, because its Web Catalog of Patches is hosted there.</source>
-    <target></target>
+    <target>Hvis du setter pris på arbeidet vårt, kan du vurdere en donasjon for å hjelpe med å dekke driftskostnadene for OpenRepos. OpenRepos er kritisk infrastruktur for nettopp Patchmanager, ettersom nettkatalogen for patcher ligger der.</target>
 </phrase>
 <phrase>
     <source>If for some reason you cannot donate to OpenRepos, we also appreciate donating to the Free Software Foundation Europe (FSFE).</source>
-    <target></target>
+    <target>Hvis du av en eller annen grunn ikke kan donere til OpenRepos, setter vi også pris på donasjoner til Free Software Foundation Europe (FSFE).</target>
 </phrase>
 <phrase>
     <source>Developers</source>
@@ -70,11 +70,11 @@
 </phrase>
 <phrase>
     <source>%1&apos;s webpage</source>
-    <target></target>
+    <target>%1s nettside</target>
 </phrase>
 <phrase>
     <source>%1&apos;s %2 account</source>
-    <target></target>
+    <target>%1s %2-konto</target>
 </phrase>
 <phrase>
     <source>Copied log to clipboard.</source>
@@ -102,19 +102,19 @@
 </phrase>
 <phrase>
     <source>Start Patchmanager&apos;s daemon before activating Patches</source>
-    <target></target>
+    <target>tart Patchmanager-daemonen før aktivering av patcher</target>
 </phrase>
 <phrase>
     <source>This Patch is not available anymore. You will not be able to reinstall it.</source>
-    <target></target>
+    <target>Denne patchen er ikke lenger tilgjengelig. Du vil ikke kunne installere den på nytt</target>
 </phrase>
 <phrase>
     <source>Author</source>
-    <target></target>
+    <target>Utvikler</target>
 </phrase>
 <phrase>
     <source>Maintainer</source>
-    <target></target>
+    <target>Vedlikeholder</target>
 </phrase>
 <phrase>
     <source>Version</source>
@@ -126,14 +126,14 @@
 </phrase>
 <phrase>
     <source>Compatible</source>
-    <target></target>
+    <target>Kompatibel</target>
 </phrase>
 <phrase>
     <source>May conflict with these Patches:</source>
-    <target></target>
+    <target>Kan være i konflikt med følgende patcher:</target>
 </phrase>
 <phrase>
-    <source>This Patch uses the legacy format for its patch.json file. If you are its maintainer, please do consider updating to the new format; if you are using the Web Catalog you shall not include a patch.json file in your upload!&lt;br /&gt;See the developer section in the &lt;a href=&quot;%1&quot;&gt;README&lt;/a&gt; for details.</source>
+    <source>Denne patchen bruker det gamle formatet for sin patch.json-fil. Hvis du er vedlikeholder, bør du vurdere å oppdatere til det nye formatet. Hvis du bruker Nettkatalog, skal du ikke inkludere en patch.json-fil i opplastingen din!<br />Se utviklerdelen i <a href="%1">README-filen</a> for detaljer..</source>
     <target></target>
 </phrase>
 <phrase>
@@ -146,27 +146,27 @@
 </phrase>
 <phrase>
     <source>Source code repository</source>
-    <target></target>
+    <target>Repository for kildekode</target>
 </phrase>
 <phrase>
     <source>Patch log</source>
-    <target></target>
+    <target>Patchlogg</target>
 </phrase>
 <phrase>
     <source>Press and hold to copy log to the clipboard</source>
-    <target></target>
+    <target>Trykk og hold for å kopiere loggen til utklippstavlen</target>
 </phrase>
 <phrase>
     <source>No log exists yet</source>
-    <target></target>
+    <target>Ingen logger enda</target>
 </phrase>
 <phrase>
     <source>Disable and deactivate all Patches</source>
-    <target></target>
+    <target>Deaktiver og slå av alle patcher</target>
 </phrase>
 <phrase>
     <source>Start Patchmanager&apos;s daemon</source>
-    <target></target>
+    <target>Start Patchmanager-daemonen</target>
 </phrase>
 <phrase>
     <source>Updates available</source>
@@ -174,51 +174,51 @@
 </phrase>
 <phrase>
     <source>Web Catalog</source>
-    <target></target>
+    <target>Nettkatalkog</target>
 </phrase>
 <phrase>
     <source>Restart preloaded services</source>
-    <target></target>
+    <target>Start forhåndslastede tjenester på nytt</target>
 </phrase>
 <phrase>
     <source>Restore prior enabled list</source>
-    <target></target>
+    <target>Gjenopprett forrige aktiverte liste</target>
 </phrase>
 <phrase>
     <source>Resolve failure</source>
-    <target></target>
+    <target>Løs feil</target>
 </phrase>
 <phrase>
     <source>Installed Patches</source>
-    <target></target>
+    <target>Installerte patcher</target>
 </phrase>
 <phrase>
     <source>This Patch is incompatible with the installed SailfishOS version.</source>
-    <target></target>
+    <target>Denne patchen er ikke kompatibel med den installerte versjonen av SailfishOS.</target>
 </phrase>
 <phrase>
     <source>Removing Patch %1</source>
-    <target></target>
+    <target>Fjerner patch %1</target>
 </phrase>
 <phrase>
     <source>Tap to configure</source>
-    <target></target>
+    <target>Trykk for å konfigurere</target>
 </phrase>
 <phrase>
     <source>Tap to show configuration</source>
-    <target></target>
+    <target>Trykk for å vise konfigurasjon</target>
 </phrase>
 <phrase>
     <source>Compatible with:</source>
-    <target></target>
+    <target>Kompatibelt med:</target>
 </phrase>
 <phrase>
     <source>May conflict with another Patch, see %1</source>
-    <target></target>
+    <target>Kan være i konflikt med en annen patch, se %1</target>
 </phrase>
 <phrase>
     <source>May conflict with %2 other Patches, see %1</source>
-    <target></target>
+    <target>Kan være i konflikt med %2 andre patcher, se %1</target>
 </phrase>
 <phrase>
     <source>Details</source>
