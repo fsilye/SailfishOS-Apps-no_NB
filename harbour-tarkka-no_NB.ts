@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>Negative</source>
-        <translation>Negativ.</translation>
+        <translation>Negativ</translation>
     </message>
     <message>
         <source>Yellow on black</source>
@@ -129,26 +129,26 @@
     </message>
     <message>
         <source>White on blue</source>
-        <translation>Vit på blå</translation>
+        <translation>Hvit på blå</translation>
     </message>
     <message>
         <source>Blue on white</source>
-        <translation>Blå på vit</translation>
+        <translation>Blå på hvit</translation>
     </message>
     <message>
         <source>Red on black</source>
-        <translation>Röd på svart</translation>
+        <translation>Rød på svart</translation>
     </message>
     <message>
         <source>Black on red</source>
-        <translation>Svart på röd</translation>
+        <translation>Svart på rød</translation>
     </message>
 </context>
 <context>
     <name>FilterList</name>
     <message>
         <source>None</source>
-        <translation>Inget</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -160,15 +160,15 @@
     </message>
     <message>
         <source>Solarize</source>
-        <translation>Solarisera</translation>
+        <translation>Solarisering</translation>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation>Vita-tavlan</translation>
+        <translation>Whiteboard</translation>
     </message>
     <message>
         <source>Blackboard</source>
-        <translation>Svarta-tavlan</translation>
+        <translation>Tavle</translation>
     </message>
     <message>
         <source>Yellow on black</source>
@@ -188,38 +188,38 @@
     </message>
     <message>
         <source>White on blue</source>
-        <translation>Vit på blå</translation>
+        <translation>Hvit på blå</translation>
     </message>
     <message>
         <source>Blue on white</source>
-        <translation>Blå på vit</translation>
+        <translation>Blå på hvit</translation>
     </message>
     <message>
         <source>Red on black</source>
-        <translation>Röd på svart</translation>
+        <translation>Rød på svart</translation>
     </message>
     <message>
         <source>Black on red</source>
-        <translation>Svart på röd</translation>
+        <translation>Svart på rød</translation>
     </message>
 </context>
 <context>
     <name>MainPage</name>
     <message>
         <source>Open</source>
-        <translation>Öppna</translation>
+        <translation>Åpne</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation>Dela</translation>
+        <translation>Dele</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation>Filter</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Ljusstyrka</translation>
+        <translation>Lysstyrke</translation>
     </message>
     <message>
         <source>Contrast</source>
@@ -231,19 +231,19 @@
     </message>
     <message>
         <source>Image saved</source>
-        <translation>Bild sparad</translation>
+        <translation>Bilde lagret</translation>
     </message>
     <message>
         <source>Image saved in the gallery as </source>
-        <translation>Bilden sparad i Galleri som </translation>
+        <translation>Bilde lagret i Galleri som </translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fel</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Error saving the image in the gallery</source>
-        <translation>Ett fel uppstod när bilden skulle sparas i Galleri</translation>
+        <translation>En feil uppstod när bildet skulle lagres i Galleri</translation>
     </message>
 </context>
 </TS>
