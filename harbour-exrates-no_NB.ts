@@ -469,43 +469,43 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Kuwaiti Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuwaitisk dinar (KWD)</translation>
     </message>
     <message>
         <source>Kazakhstani Tenge</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasakhstansk tenge (KZT)</translation>
     </message>
     <message>
         <source>Lao Kip</source>
-        <translation type="unfinished"></translation>
+        <translation>Laotisk kip (LAK)</translation>
     </message>
     <message>
         <source>Lebanese Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Libanesisk pund (LBP)</translation>
     </message>
     <message>
         <source>Sri Lanka Rupee</source>
-        <translation type="unfinished"></translation>
+        <translation>Srilankisk rupi (LKR)</translation>
     </message>
     <message>
         <source>Liberian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Liberisk dollar (LRD)</translation>
     </message>
     <message>
         <source>Lesotho Loti</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesothisk loti (LSL)</translation>
     </message>
     <message>
         <source>Libyan Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Libysk dinar (LYD)</translation>
     </message>
     <message>
         <source>Moroccan Dirham</source>
-        <translation type="unfinished"></translation>
+        <translation>Marokkansk dirham (MAD)</translation>
     </message>
     <message>
         <source>Moldova Lei</source>
-        <translation type="unfinished"></translation>
+        <translation>Moldovsk leu (MDL)</translation>
     </message>
     <message>
         <source>Malagasy Ariary</source>
