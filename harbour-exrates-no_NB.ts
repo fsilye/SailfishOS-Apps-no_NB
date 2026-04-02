@@ -33,7 +33,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     <name>BasePage</name>
     <message>
         <source>Base Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Basievaluta</translation>
     </message>
     <message>
         <source>Show search field</source>
@@ -52,22 +52,22 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     <name>CoverPage</name>
     <message>
         <source>Currency Converter</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutakalkulator</translation>
     </message>
 </context>
 <context>
     <name>FirstPage</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Om</translation>
     </message>
     <message>
         <source>Select Base Currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg basievaluta</translation>
     </message>
     <message>
         <source>Update Rates</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater valutakurser</translation>
     </message>
     <message>
         <source>ExRates</source>
