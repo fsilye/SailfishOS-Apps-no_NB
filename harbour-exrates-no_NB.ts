@@ -405,39 +405,39 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Honduran Lempira</source>
-        <translation type="unfinished"></translation>
+        <translation>Honduransk lempira (HNR)</translation>
     </message>
     <message>
         <source>Croatian Kuna</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatisk kuna (HRK)</translation>
     </message>
     <message>
         <source>Haitian Gourde</source>
-        <translation type="unfinished"></translation>
+        <translation>Haitisk gourde (HTG)</translation>
     </message>
     <message>
         <source>Hungarian Forint</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungarsk forint (HUF)</translation>
     </message>
     <message>
         <source>Indonesian Rupiah</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesisk rupiah (IDR)</translation>
     </message>
     <message>
         <source>Israeli New Sheqel</source>
-        <translation type="unfinished"></translation>
+        <translation>Israelsk ny shekel (ILS)</translation>
     </message>
     <message>
         <source>Indian Rupee</source>
-        <translation type="unfinished"></translation>
+        <translation>Indisk rupi (INR)</translation>
     </message>
     <message>
         <source>Iraqi Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Iraksk dinar (IQD)</translation>
     </message>
     <message>
         <source>Iranian Rial</source>
-        <translation type="unfinished"></translation>
+        <translation>Iransk rial (IRR)</translation>
     </message>
     <message>
         <source>Icelandic Krona</source>
@@ -449,7 +449,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Jordanian Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Jordansk dinar (JOD)</translation>
     </message>
     <message>
         <source>Japanese Yen</source>
@@ -457,11 +457,11 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Kenyan Shilling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kenyansk shilling (KES)</translation>
     </message>
     <message>
         <source>Kyrgyzstan Som</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirgisisk som (KGS)</translation>
     </message>
     <message>
         <source>South Korean Won</source>
