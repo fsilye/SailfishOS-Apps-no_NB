@@ -305,35 +305,35 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Chilean Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Chilensk peso (CLP)</translation>
     </message>
     <message>
         <source>Chinese Yuan</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinesisk yuan (CNY)</translation>
     </message>
     <message>
         <source>Colombian Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Colombiansk peso (COP)</translation>
     </message>
     <message>
         <source>Costa Rican Colón</source>
-        <translation type="unfinished"></translation>
+        <translation>Costaricansk colón (CRC)</translation>
     </message>
     <message>
         <source>Cuban Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Kubansk peso (CUP)</translation>
     </message>
     <message>
         <source>Cape Verde Escudo</source>
-        <translation type="unfinished"></translation>
+        <translation>Kappverdisk escudo (CVE)</translation>
     </message>
     <message>
         <source>Czech Koruna</source>
-        <translation type="unfinished"></translation>
+        <translation>Tsjekkisk koruna (CZK)</translation>
     </message>
     <message>
         <source>Djiboutian Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Djiboutisk franc (DJF)</translation>
     </message>
     <message>
         <source>Danish Krone</source>
@@ -341,23 +341,23 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Dominican Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Dominikansk peso (DOP)</translation>
     </message>
     <message>
         <source>Algerian Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Algerisk dinar (DZD)</translation>
     </message>
     <message>
         <source>Egyptian Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyptisk pund (EGP)</translation>
     </message>
     <message>
         <source>Eritrean Nakfa</source>
-        <translation type="unfinished"></translation>
+        <translation>Eritreisk nakfa (ERN)</translation>
     </message>
     <message>
         <source>Ethiopian Birr</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiopisk birr (ETB)</translation>
     </message>
     <message>
         <source>Euro</source>
@@ -365,7 +365,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Fiji Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijiansk dollar (FJD)</translation>
     </message>
     <message>
         <source>U.K. Pound Sterling</source>
