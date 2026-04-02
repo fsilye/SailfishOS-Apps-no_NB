@@ -605,59 +605,59 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Polish Zloty</source>
-        <translation type="unfinished"></translation>
+        <translation>Polsk zloty</translation>
     </message>
     <message>
         <source>Paraguayan Guaraní</source>
-        <translation type="unfinished"></translation>
+        <translation>Paraguayansk guaraní</translation>
     </message>
     <message>
         <source>Qatari Rial</source>
-        <translation type="unfinished"></translation>
+        <translation>Katarsk rial</translation>
     </message>
     <message>
         <source>Romanian New Leu</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumensk (ny) leu</translation>
     </message>
     <message>
         <source>Serbian Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbisk dinar</translation>
     </message>
     <message>
         <source>Russian Rouble</source>
-        <translation type="unfinished"></translation>
+        <translation>Russisk rubel</translation>
     </message>
     <message>
         <source>Rwandan Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Rwandisk franc</translation>
     </message>
     <message>
         <source>Saudi Riyal</source>
-        <translation type="unfinished"></translation>
+        <translation>Saudiarabisk riyal</translation>
     </message>
     <message>
         <source>Solomon Islands Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Salomonsk dollar</translation>
     </message>
     <message>
         <source>Seychelles Rupee</source>
-        <translation type="unfinished"></translation>
+        <translation>Seychellisk rupi</translation>
     </message>
     <message>
         <source>Sudanese Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sudansk pund</translation>
     </message>
     <message>
         <source>Swedish Krona</source>
-        <translation>Svensk krone (SEK)</translation>
+        <translation>Svensk krone</translation>
     </message>
     <message>
         <source>Singapore Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Singaporsk dollar</translation>
     </message>
     <message>
         <source>Sierra Leonean Leone</source>
-        <translation type="unfinished"></translation>
+        <translation>Sierraleonsk leone</translation>
     </message>
     <message>
         <source>Somali Shilling</source>
@@ -673,11 +673,11 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>São Tomé and Príncipe Dobra</source>
-        <translation>Saotomesisk dobra (STN)</translation>
+        <translation>Saotomesisk dobra</translation>
     </message>
     <message>
         <source>Salvadoran Colon</source>
-        <translation>Salvadoransk colón (SVC)</translation>
+        <translation>Salvadoransk colón</translation>
     </message>
     <message>
         <source>Syrian pound</source>
