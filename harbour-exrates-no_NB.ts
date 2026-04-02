@@ -209,63 +209,63 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Albanian Lek</source>
-        <translation type="unfinished"></translation>
+        <translation>Albansk lek (ALL)</translation>
     </message>
     <message>
         <source>Armenia Dram</source>
-        <translation type="unfinished"></translation>
+        <translation>Armensk dram (AMD)</translation>
     </message>
     <message>
         <source>Neth. Antillean Guilder</source>
-        <translation type="unfinished"></translation>
+        <translation>Antilliansk gylden (ANG)</translation>
     </message>
     <message>
         <source>Angolan Kwanza</source>
-        <translation type="unfinished"></translation>
+        <translation>Angolansk kwanza (AOA)</translation>
     </message>
     <message>
         <source>Argentine Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Argentinsk peso (ARS)</translation>
     </message>
     <message>
         <source>Australian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Australsk dollar (AUD)</translation>
     </message>
     <message>
         <source>Aruban Florin</source>
-        <translation type="unfinished"></translation>
+        <translation>Arubansk florin (AWG)</translation>
     </message>
     <message>
         <source>Azerbaijan Manat</source>
-        <translation type="unfinished"></translation>
+        <translation>Aserbajdsjansk manat (AZN)</translation>
     </message>
     <message>
         <source>Bosnia and Herzegovina convertible Mark</source>
-        <translation type="unfinished"></translation>
+        <translation>Bosnisk-hercegovinsk konvertibel mark (BAM)</translation>
     </message>
     <message>
         <source>Barbadian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barbadisk dollar (BBD)</translation>
     </message>
     <message>
         <source>Bangladeshi Taka</source>
-        <translation type="unfinished"></translation>
+        <translation>Bangladeshisk taka (BDT)</translation>
     </message>
     <message>
         <source>Bulgarian Lev</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgarsk lev (BGN)</translation>
     </message>
     <message>
         <source>Bahrain Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahrainsk dinar (BHD)</translation>
     </message>
     <message>
         <source>Burundian Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Burundisk franc (BIF)</translation>
     </message>
     <message>
         <source>Brunei Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>runeisk dollar (BND)</translation>
     </message>
     <message>
         <source>Bolivian Boliviano</source>
@@ -337,7 +337,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Danish Krone</source>
-        <translation type="unfinished"></translation>
+        <translation>Dansk krone (DKK)</translation>
     </message>
     <message>
         <source>Dominican Peso</source>
@@ -569,7 +569,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Norwegian Krone</source>
-        <translation type="unfinished"></translation>
+        <translation>Norsk krone (NOK)</translation>
     </message>
     <message>
         <source>Nepalese Rupee</source>
@@ -649,7 +649,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Swedish Krona</source>
-        <translation type="unfinished"></translation>
+        <translation>Svensk krone (SEK)</translation>
     </message>
     <message>
         <source>Singapore Dollar</source>
