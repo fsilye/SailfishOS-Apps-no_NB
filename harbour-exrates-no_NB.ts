@@ -158,54 +158,54 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>This button resets the &apos;Convert to&apos; list to an alphabetical order.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne knappen tilbakestiller 'Konverter til'-listen til alfabetisk rekkefølge.</translation>
     </message>
     <message>
         <source>Requires a rate update or selection of a new base rate to take affect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Krever en oppdatering av kurser eller valg av en ny basisvaluta for å tre i kraft.</translation>
     </message>
     <message>
         <source>List was successfully reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutalisten har blitt tilbakestilt</translation>
     </message>
     <message>
         <source>Rearrange &apos;Convert to&apos; list</source>
-        <translation type="unfinished"></translation>
+        <translation>Endre rekkefølge i 'Konverter til'-listen</translation>
     </message>
     <message>
         <source>Puts the selected currency on top of &apos;Convert to&apos; list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plasserer valgt valuta øverst i 'Konverter til'-listen.</translation>
     </message>
     <message>
         <source>API Token for personal access to ExchangeRate</source>
-        <translation type="unfinished"></translation>
+        <translation>API-nøkkel for personlig tilgang til ExchangeRate</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre</translation>
     </message>
     <message>
         <source>Personal access tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Personlig tilgangsnøkkel</translation>
     </message>
     <message>
         <source>Here personal access tokens for comercial websites can be added. Most websites offer a free plan for personal use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Her kan du legge til personlige tilgangsnøkler for kommersielle nettsteder. De fleste nettsteder tilbyr en gratisplan for personlig bruk</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
     <name>parser</name>
     <message>
         <source>U.A.E Dirham</source>
-        <translation type="unfinished"></translation>
+        <translation>Emiratesisk dirham (AED)</translation>
     </message>
     <message>
         <source>Afghan Afghani</source>
-        <translation type="unfinished"></translation>
+        <translation>Afghansk afghani (AFN)</translation>
     </message>
     <message>
         <source>Albanian Lek</source>
