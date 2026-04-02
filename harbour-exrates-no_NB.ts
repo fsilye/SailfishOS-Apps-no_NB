@@ -201,243 +201,243 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     <name>parser</name>
     <message>
         <source>U.A.E Dirham</source>
-        <translation>Emiratesisk dirham (AED)</translation>
+        <translation>Emiratesisk dirham</translation>
     </message>
     <message>
         <source>Afghan Afghani</source>
-        <translation>Afghansk afghani (AFN)</translation>
+        <translation>Afghansk afghani</translation>
     </message>
     <message>
         <source>Albanian Lek</source>
-        <translation>Albansk lek (ALL)</translation>
+        <translation>Albansk lek</translation>
     </message>
     <message>
         <source>Armenia Dram</source>
-        <translation>Armensk dram (AMD)</translation>
+        <translation>Armensk dram</translation>
     </message>
     <message>
         <source>Neth. Antillean Guilder</source>
-        <translation>Antilliansk gylden (ANG)</translation>
+        <translation>Antilliansk gylden</translation>
     </message>
     <message>
         <source>Angolan Kwanza</source>
-        <translation>Angolansk kwanza (AOA)</translation>
+        <translation>Angolansk kwanza</translation>
     </message>
     <message>
         <source>Argentine Peso</source>
-        <translation>Argentinsk peso (ARS)</translation>
+        <translation>Argentinsk peso</translation>
     </message>
     <message>
         <source>Australian Dollar</source>
-        <translation>Australsk dollar (AUD)</translation>
+        <translation>Australsk dollar</translation>
     </message>
     <message>
         <source>Aruban Florin</source>
-        <translation>Arubansk florin (AWG)</translation>
+        <translation>Arubansk florin</translation>
     </message>
     <message>
         <source>Azerbaijan Manat</source>
-        <translation>Aserbajdsjansk manat (AZN)</translation>
+        <translation>Aserbajdsjansk manat</translation>
     </message>
     <message>
         <source>Bosnia and Herzegovina convertible Mark</source>
-        <translation>Bosnisk-hercegovinsk konvertibel mark (BAM)</translation>
+        <translation>Bosnisk-hercegovinsk konvertibel mark</translation>
     </message>
     <message>
         <source>Barbadian Dollar</source>
-        <translation>Barbadisk dollar (BBD)</translation>
+        <translation>Barbadisk dollar</translation>
     </message>
     <message>
         <source>Bangladeshi Taka</source>
-        <translation>Bangladeshisk taka (BDT)</translation>
+        <translation>Bangladeshisk taka</translation>
     </message>
     <message>
         <source>Bulgarian Lev</source>
-        <translation>Bulgarsk lev (BGN)</translation>
+        <translation>Bulgarsk lev</translation>
     </message>
     <message>
         <source>Bahrain Dinar</source>
-        <translation>Bahrainsk dinar (BHD)</translation>
+        <translation>Bahrainsk dinar</translation>
     </message>
     <message>
         <source>Burundian Franc</source>
-        <translation>Burundisk franc (BIF)</translation>
+        <translation>Burundisk franc</translation>
     </message>
     <message>
         <source>Brunei Dollar</source>
-        <translation>runeisk dollar (BND)</translation>
+        <translation>runeisk dollar</translation>
     </message>
     <message>
         <source>Bolivian Boliviano</source>
-        <translation>Boliviansk boliviano (BOB)</translation>
+        <translation>Boliviansk boliviano</translation>
     </message>
     <message>
         <source>Brazilian Real</source>
-        <translation>Brasiliansk real (BRL)</translation>
+        <translation>Brasiliansk real</translation>
     </message>
     <message>
         <source>Bahamian Dollar</source>
-        <translation>Bahamansk dollar (BSD)</translation>
+        <translation>Bahamansk dollar</translation>
     </message>
     <message>
         <source>Botswana Pula</source>
-        <translation>Botswansk pula (BWP)</translation>
+        <translation>Botswansk pula</translation>
     </message>
     <message>
         <source>Belarussian Ruble</source>
-        <translation>Belarusisk rubel (BYN)</translation>
+        <translation>Belarusisk rubel</translation>
     </message>
     <message>
         <source>Belize Dollar</source>
-        <translation>Belizisk dollar (BZD)</translation>
+        <translation>Belizisk dollar</translation>
     </message>
     <message>
         <source>Canadian Dollar</source>
-        <translation>Kanadisk dollar (CAD)</translation>
+        <translation>Kanadisk dollar</translation>
     </message>
     <message>
         <source>Congolese Franc</source>
-        <translation>Kongolesisk franc (CDF)</translation>
+        <translation>Kongolesisk franc</translation>
     </message>
     <message>
         <source>Swiss Franc</source>
-        <translation>Sveitsisk franc (CHF)</translation>
+        <translation>Sveitsisk franc</translation>
     </message>
     <message>
         <source>Chilean Peso</source>
-        <translation>Chilensk peso (CLP)</translation>
+        <translation>Chilensk peso</translation>
     </message>
     <message>
         <source>Chinese Yuan</source>
-        <translation>Kinesisk yuan (CNY)</translation>
+        <translation>Kinesisk yuan</translation>
     </message>
     <message>
         <source>Colombian Peso</source>
-        <translation>Colombiansk peso (COP)</translation>
+        <translation>Colombiansk peso</translation>
     </message>
     <message>
         <source>Costa Rican Colón</source>
-        <translation>Costaricansk colón (CRC)</translation>
+        <translation>Costaricansk colón</translation>
     </message>
     <message>
         <source>Cuban Peso</source>
-        <translation>Kubansk peso (CUP)</translation>
+        <translation>Kubansk peso</translation>
     </message>
     <message>
         <source>Cape Verde Escudo</source>
-        <translation>Kappverdisk escudo (CVE)</translation>
+        <translation>Kappverdisk escudo</translation>
     </message>
     <message>
         <source>Czech Koruna</source>
-        <translation>Tsjekkisk koruna (CZK)</translation>
+        <translation>Tsjekkisk koruna</translation>
     </message>
     <message>
         <source>Djiboutian Franc</source>
-        <translation>Djiboutisk franc (DJF)</translation>
+        <translation>Djiboutisk franc</translation>
     </message>
     <message>
         <source>Danish Krone</source>
-        <translation>Dansk krone (DKK)</translation>
+        <translation>Dansk krone</translation>
     </message>
     <message>
         <source>Dominican Peso</source>
-        <translation>Dominikansk peso (DOP)</translation>
+        <translation>Dominikansk peso</translation>
     </message>
     <message>
         <source>Algerian Dinar</source>
-        <translation>Algerisk dinar (DZD)</translation>
+        <translation>Algerisk dinar</translation>
     </message>
     <message>
         <source>Egyptian Pound</source>
-        <translation>Egyptisk pund (EGP)</translation>
+        <translation>Egyptisk pund</translation>
     </message>
     <message>
         <source>Eritrean Nakfa</source>
-        <translation>Eritreisk nakfa (ERN)</translation>
+        <translation>Eritreisk nakfa</translation>
     </message>
     <message>
         <source>Ethiopian Birr</source>
-        <translation>Etiopisk birr (ETB)</translation>
+        <translation>Etiopisk birr</translation>
     </message>
     <message>
         <source>Euro</source>
-        <translation>Euro (EUR)</translation>
+        <translation>Euro</translation>
     </message>
     <message>
         <source>Fiji Dollar</source>
-        <translation>Fijiansk dollar (FJD)</translation>
+        <translation>Fijiansk dollar</translation>
     </message>
     <message>
         <source>U.K. Pound Sterling</source>
-        <translation>Britiske pund sterling (GBP)</translation>
+        <translation>Britiske pund sterling</translation>
     </message>
     <message>
         <source>Georgian Lari</source>
-        <translation>Georgisk lari (GEL)</translation>
+        <translation>Georgisk lari</translation>
     </message>
     <message>
         <source>Ghanaian Cedi</source>
-        <translation>Ghanesisk cedi (GHS)</translation>
+        <translation>Ghanesisk cedi</translation>
     </message>
     <message>
         <source>Gibraltar Pound</source>
-        <translation>Gibraltarsk pund (GIP)</translation>
+        <translation>Gibraltarsk pund</translation>
     </message>
     <message>
         <source>Gambian Dalasi</source>
-        <translation>Gambisk dalasi (GMD)</translation>
+        <translation>Gambisk dalasi</translation>
     </message>
     <message>
         <source>Guinean Franc</source>
-        <translation>Guineansk franc (GNF)</translation>
+        <translation>Guineansk franc</translation>
     </message>
     <message>
         <source>Guatemalan Quetzal</source>
-        <translation>Guatemalansk quetzal (GTQ)</translation>
+        <translation>Guatemalansk quetzal</translation>
     </message>
     <message>
         <source>Guyanese Dollar</source>
-        <translation>Guyansk dollar (GYD)</translation>
+        <translation>Guyansk dollar</translation>
     </message>
     <message>
         <source>Hong Kong Dollar</source>
-        <translation>Hongkong-dollar (HKD)</translation>
+        <translation>Hongkong-dollar</translation>
     </message>
     <message>
         <source>Honduran Lempira</source>
-        <translation>Honduransk lempira (HNR)</translation>
+        <translation>Honduransk lempira</translation>
     </message>
     <message>
         <source>Croatian Kuna</source>
-        <translation>Kroatisk kuna (HRK)</translation>
+        <translation>Kroatisk kuna</translation>
     </message>
     <message>
         <source>Haitian Gourde</source>
-        <translation>Haitisk gourde (HTG)</translation>
+        <translation>Haitisk gourde</translation>
     </message>
     <message>
         <source>Hungarian Forint</source>
-        <translation>Ungarsk forint (HUF)</translation>
+        <translation>Ungarsk forint</translation>
     </message>
     <message>
         <source>Indonesian Rupiah</source>
-        <translation>Indonesisk rupiah (IDR)</translation>
+        <translation>Indonesisk rupiah</translation>
     </message>
     <message>
         <source>Israeli New Sheqel</source>
-        <translation>Israelsk ny shekel (ILS)</translation>
+        <translation>Israelsk ny shekel</translation>
     </message>
     <message>
         <source>Indian Rupee</source>
-        <translation>Indisk rupi (INR)</translation>
+        <translation>Indisk rupi</translation>
     </message>
     <message>
         <source>Iraqi Dinar</source>
-        <translation>Iraksk dinar (IQD)</translation>
+        <translation>Iraksk dinar</translation>
     </message>
     <message>
         <source>Iranian Rial</source>
-        <translation>Iransk rial (IRR)</translation>
+        <translation>Iransk rial</translation>
     </message>
     <message>
         <source>Icelandic Krona</source>
