@@ -549,59 +549,59 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Malaysian Ringgit</source>
-        <translation type="unfinished"></translation>
+        <translation>Malaysisk ringgit</translation>
     </message>
     <message>
         <source>Mozambican Metical</source>
-        <translation type="unfinished"></translation>
+        <translation>Mosambikisk metical</translation>
     </message>
     <message>
         <source>Namibian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Namibisk dollar</translation>
     </message>
     <message>
         <source>Nigerian Naira</source>
-        <translation type="unfinished"></translation>
+        <translation>Nigeriansk naira</translation>
     </message>
     <message>
         <source>Nicaraguan Córdoba</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicaraguansk córdoba</translation>
     </message>
     <message>
         <source>Norwegian Krone</source>
-        <translation>Norsk krone (NOK)</translation>
+        <translation>Norsk krone</translation>
     </message>
     <message>
         <source>Nepalese Rupee</source>
-        <translation>Nepalsk rupi (NPR)</translation>
+        <translation>Nepalsk rupi</translation>
     </message>
     <message>
         <source>New Zealand Dollar</source>
-        <translation>Newzealandsk dollar (NZD)</translation>
+        <translation>Newzealandsk dollar</translation>
     </message>
     <message>
         <source>Omani Rial</source>
-        <translation type="unfinished"></translation>
+        <translation>Omansk rial</translation>
     </message>
     <message>
         <source>Panamanian Balboa</source>
-        <translation type="unfinished"></translation>
+        <translation>Panamansk balboa</translation>
     </message>
     <message>
         <source>Peruvian Nuevo Sol</source>
-        <translation>Peruansk sol (PEN)</translation>
+        <translation>Peruansk sol</translation>
     </message>
     <message>
         <source>Papua New Guinean Kina</source>
-        <translation type="unfinished"></translation>
+        <translation>Papuansk kina</translation>
     </message>
     <message>
         <source>Philippine Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Filippinsk peso</translation>
     </message>
     <message>
         <source>Pakistani Rupee</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakistansk rupi</translation>
     </message>
     <message>
         <source>Polish Zloty</source>
@@ -829,15 +829,15 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Guernsey Pound</source>
-        <translation>Guernsey-pund (GBP)</translation>
+        <translation>Guernsey-pund</translation>
     </message>
     <message>
         <source>Isle of Man Pound</source>
-        <translation>Man-pund (GBP)</translation>
+        <translation>Man-pund</translation>
     </message>
     <message>
         <source>Jersey Pound</source>
-        <translation>Jersey-pund (GBP)</translation>
+        <translation>Jersey-pund</translation>
     </message>
     <message>
         <source>Kiribati Dollar</source>
@@ -857,23 +857,23 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>New Taiwan Dollar</source>
-        <translation>Ny taiwansk dollar (TWD)</translation>
+        <translation>Ny taiwansk dollar</translation>
     </message>
     <message>
         <source>Congo Franc</source>
-        <translation>Kongolesisk franc (CDF)</translation>
+        <translation>Kongolesisk franc</translation>
     </message>
     <message>
         <source>Special Drawing Rights</source>
-        <translation>Spesielle trekkrettigheter (XDR)</translation>
+        <translation>Spesielle trekkrettigheter</translation>
     </message>
     <message>
         <source>Zimbabwean Gold</source>
-        <translation>Zimbabwisk gold (ZiG)</translation>
+        <translation>Zimbabwisk gold</translation>
     </message>
     <message>
         <source>Zimbabwean Dollar</source>
-        <translation>Zimbabwisk dollar (ZWL)</translation>
+        <translation>Zimbabwisk dollar</translation>
     </message>
     <message>
         <source>The server was not able to load rates for this currency. Please select a different base currency or use a different API.</source>
