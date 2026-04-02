@@ -20,7 +20,13 @@
 &lt;/ul&gt;
 The APIs provide rates for different currencies therefore the currency your are looking for might not be available. Also the rates are only updated once per day.&lt;/p&gt;
 &lt;p&gt;Please support me by sending bug reports or suggestions via Github. You can find the project &lt;a href=&quot;https://github.com/Sikarjan/harbour-exrates&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation><p>For øyeblikket bruker denne appen kun åpne API-er for å hente valutakurser. Følgende API-er benyttes:
+<ul>
+<li><a href="https://www.floatrates.com/indes.php">FloatRates-API</a></li&gt;
+<li><a href="https://www.exchangerate-api.com/index.php">ExchangeRate-API</a></li&gt;
+</ul>
+API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du leter etter ikke er tilgjengelig. I tillegg oppdateres kursene kun én gang om dagen.</p>
+<p>Støtt gjerne prosjektet ved å sende feilrapporter eller forslag via GitHub. Du finner prosjektet <a href="https://github.com/Sikarjan/harbour-exrates">her</a>.</p></translation>
     </message>
 </context>
 <context>
