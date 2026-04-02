@@ -661,15 +661,15 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Somali Shilling</source>
-        <translation type="unfinished"></translation>
+        <translation>Somalisk shilling</translation>
     </message>
     <message>
         <source>Surinamese Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Surinamsk dollar</translation>
     </message>
     <message>
         <source>South Sudanese Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sørsudansk pund</translation>
     </message>
     <message>
         <source>São Tomé and Príncipe Dobra</source>
@@ -681,151 +681,151 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Syrian pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Syrisk pund</translation>
     </message>
     <message>
         <source>Swazi Lilangeni</source>
-        <translation type="unfinished"></translation>
+        <translation>Eswatinsk lilangeni</translation>
     </message>
     <message>
         <source>Thai Baht</source>
-        <translation>Thailandsk baht (THB)</translation>
+        <translation>Thailandsk baht</translation>
     </message>
     <message>
         <source>Tajikistan Ruble</source>
-        <translation type="unfinished"></translation>
+        <translation>Tadsjikisk rubel</translation>
     </message>
     <message>
         <source>New Turkmenistan Manat</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkmensk (ny) manat</translation>
     </message>
     <message>
         <source>Tunisian Dinar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tunisisk dinar</translation>
     </message>
     <message>
         <source>Tongan Paʻanga</source>
-        <translation type="unfinished"></translation>
+        <translation>Tongansk paʻanga</translation>
     </message>
     <message>
         <source>Turkish Lira</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyrkisk lire</translation>
     </message>
     <message>
         <source>Trinidad Tobago Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Trinidadisk dollar</translation>
     </message>
     <message>
         <source>Tanzanian Shilling</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanzaniansk shilling</translation>
     </message>
     <message>
         <source>Ukrainian Hryvnia</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainsk hryvnja</translation>
     </message>
     <message>
         <source>Ugandan Shilling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugandisk shilling</translation>
     </message>
     <message>
         <source>U.S. Dollar</source>
-        <translation>Amerikansk dollar (USD)</translation>
+        <translation>Amerikansk dollar</translation>
     </message>
     <message>
         <source>Uruguayan Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruguayansk peso</translation>
     </message>
     <message>
         <source>Uzbekistan Sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Usbekisk som</translation>
     </message>
     <message>
         <source>Venezuelan Bolivar</source>
-        <translation type="unfinished"></translation>
+        <translation>Venezuelansk bolívar</translation>
     </message>
     <message>
         <source>Vietnamese Dong</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamesisk dong</translation>
     </message>
     <message>
         <source>Vanuatu Vatu</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanuatisk vatu</translation>
     </message>
     <message>
         <source>Samoan Tala</source>
-        <translation type="unfinished"></translation>
+        <translation>Samoansk tala</translation>
     </message>
     <message>
         <source>Central African CFA Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Sentralafrikansk CFA-franc</translation>
     </message>
     <message>
         <source>East Caribbean Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Østkaribisk dollar</translation>
     </message>
     <message>
         <source>West African CFA Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Vestafrikansk CFA-franc</translation>
     </message>
     <message>
         <source>CFP Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>CFP-franc</translation>
     </message>
     <message>
         <source>Yemeni Rial</source>
-        <translation type="unfinished"></translation>
+        <translation>Jemenittisk rial</translation>
     </message>
     <message>
         <source>South African Rand</source>
-        <translation type="unfinished"></translation>
+        <translation>Sørafrikansk rand</translation>
     </message>
     <message>
         <source>Zambian Kwacha</source>
-        <translation type="unfinished"></translation>
+        <translation>Zambisk kwacha</translation>
     </message>
     <message>
         <source>Cambodian Riel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kambodsjansk riel</translation>
     </message>
     <message>
         <source>Comoro Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorisk franc</translation>
     </message>
     <message>
         <source>No match</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen treff</translation>
     </message>
     <message>
         <source>The API responded with an error. Currently no exchange rates are available. Please try again later or file a bug report on GitHub, see about page for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>API-et svarte med en feil. For øyeblikket er ingen valutakurser tilgjengelige. Vennligst prøv igjen senere eller send inn en feilrapport på GitHub, se «om»-siden for detaljer.</translation>
     </message>
     <message>
         <source>The API did not respond. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>API-et svarte ikke. Vennligst prøv igjen senere.</translation>
     </message>
     <message>
         <source>Bermudian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bermudisk dollar</translation>
     </message>
     <message>
         <source>Bhutanese Ngultrum</source>
-        <translation type="unfinished"></translation>
+        <translation>Bhutansk ngultrum</translation>
     </message>
     <message>
         <source>Chilean Unit of Account (UF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chilensk Unidad de Fomento (UF)</translation>
     </message>
     <message>
         <source>Chinese Yuan (offshore)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinesisk yuan (offshore)</translation>
     </message>
     <message>
         <source>Falkland Islands Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Falklandspund</translation>
     </message>
     <message>
         <source>Faroese Króna</source>
-        <translation>Færøysk krone (DKK)</translation>
+        <translation>Færøysk krone</translation>
     </message>
     <message>
         <source>Guernsey Pound</source>
@@ -841,19 +841,19 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Kiribati Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiribatisk dollar</translation>
     </message>
     <message>
         <source>Cayman Islands Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Caymansk dollar</translation>
     </message>
     <message>
         <source>Saint Helena Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Sankthelensk pund</translation>
     </message>
     <message>
         <source>Tuvaluan Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuvalsk dollar</translation>
     </message>
     <message>
         <source>New Taiwan Dollar</source>
