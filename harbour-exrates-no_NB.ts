@@ -71,35 +71,35 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>ExRates</source>
-        <translation type="unfinished"></translation>
+        <translation>ExRates</translation>
     </message>
     <message>
         <source>Base Currency: </source>
-        <translation type="unfinished"></translation>
+        <translation>Basievaluta:</translation>
     </message>
     <message>
         <source>Last update: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sist oppdatert: </translation>
     </message>
     <message>
         <source>Sum to convert</source>
-        <translation type="unfinished"></translation>
+        <translation>Beløp til omregning</translation>
     </message>
     <message>
         <source>Enter sum</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgi beløp</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat</translation>
     </message>
     <message>
         <source>Sum in </source>
-        <translation type="unfinished"></translation>
+        <translation>Beløp i </translation>
     </message>
     <message>
         <source>Convert to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Konverter til: </translation>
     </message>
     <message>
         <source>Select a base currency from the drop down menu. This requires a internet connection. New rates can be downloaded once per day.</source>
