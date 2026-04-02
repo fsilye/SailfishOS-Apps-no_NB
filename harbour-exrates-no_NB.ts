@@ -441,111 +441,111 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Icelandic Krona</source>
-        <translation>Islandsk krone (ISK)</translation>
+        <translation>Islandsk krone</translation>
     </message>
     <message>
         <source>Jamaican Dollar</source>
-        <translation>Jamaicansk dollar (JMD)</translation>
+        <translation>Jamaicansk dollar</translation>
     </message>
     <message>
         <source>Jordanian Dinar</source>
-        <translation>Jordansk dinar (JOD)</translation>
+        <translation>Jordansk dinar</translation>
     </message>
     <message>
         <source>Japanese Yen</source>
-        <translation>Japansk yen (JPY)</translation>
+        <translation>Japansk yen</translation>
     </message>
     <message>
         <source>Kenyan Shilling</source>
-        <translation>Kenyansk shilling (KES)</translation>
+        <translation>Kenyansk shilling</translation>
     </message>
     <message>
         <source>Kyrgyzstan Som</source>
-        <translation>Kirgisisk som (KGS)</translation>
+        <translation>Kirgisisk som</translation>
     </message>
     <message>
         <source>South Korean Won</source>
-        <translation>Sørkoreansk won (KRW)</translation>
+        <translation>Sørkoreansk won</translation>
     </message>
     <message>
         <source>Kuwaiti Dinar</source>
-        <translation>Kuwaitisk dinar (KWD)</translation>
+        <translation>Kuwaitisk dinar</translation>
     </message>
     <message>
         <source>Kazakhstani Tenge</source>
-        <translation>Kasakhstansk tenge (KZT)</translation>
+        <translation>Kasakhstansk tenge</translation>
     </message>
     <message>
         <source>Lao Kip</source>
-        <translation>Laotisk kip (LAK)</translation>
+        <translation>Laotisk kip</translation>
     </message>
     <message>
         <source>Lebanese Pound</source>
-        <translation>Libanesisk pund (LBP)</translation>
+        <translation>Libanesisk pund</translation>
     </message>
     <message>
         <source>Sri Lanka Rupee</source>
-        <translation>Srilankisk rupi (LKR)</translation>
+        <translation>Srilankisk rupi</translation>
     </message>
     <message>
         <source>Liberian Dollar</source>
-        <translation>Liberisk dollar (LRD)</translation>
+        <translation>Liberisk dollar</translation>
     </message>
     <message>
         <source>Lesotho Loti</source>
-        <translation>Lesothisk loti (LSL)</translation>
+        <translation>Lesothisk loti</translation>
     </message>
     <message>
         <source>Libyan Dinar</source>
-        <translation>Libysk dinar (LYD)</translation>
+        <translation>Libysk dinar</translation>
     </message>
     <message>
         <source>Moroccan Dirham</source>
-        <translation>Marokkansk dirham (MAD)</translation>
+        <translation>Marokkansk dirham</translation>
     </message>
     <message>
         <source>Moldova Lei</source>
-        <translation>Moldovsk leu (MDL)</translation>
+        <translation>Moldovsk leu</translation>
     </message>
     <message>
         <source>Malagasy Ariary</source>
-        <translation type="unfinished"></translation>
+        <translation>Gassisk ariary</translation>
     </message>
     <message>
         <source>Macedonian Denar</source>
-        <translation>Makedonsk denar (MKD)</translation>
+        <translation>Makedonsk denar</translation>
     </message>
     <message>
         <source>Myanma Kyat</source>
-        <translation type="unfinished"></translation>
+        <translation>Myanmarsk kyat</translation>
     </message>
     <message>
         <source>Mongolian Togrog</source>
-        <translation type="unfinished"></translation>
+        <translation>Mongolsk tugrik</translation>
     </message>
     <message>
         <source>Macanese Pataca</source>
-        <translation type="unfinished"></translation>
+        <translation>Makaosk pataca</translation>
     </message>
     <message>
         <source>Mauritanian Ouguiya</source>
-        <translation type="unfinished"></translation>
+        <translation>Mauritansk ouguiya</translation>
     </message>
     <message>
         <source>Mauritian Rupee</source>
-        <translation type="unfinished"></translation>
+        <translation>Mauritisk rupi</translation>
     </message>
     <message>
         <source>Maldivian Rufiyaa</source>
-        <translation type="unfinished"></translation>
+        <translation>Maldivisk rufiyaa</translation>
     </message>
     <message>
         <source>Malawian Kwacha</source>
-        <translation type="unfinished"></translation>
+        <translation>Malawisk kwacha</translation>
     </message>
     <message>
         <source>Mexican Peso</source>
-        <translation>Meksikansk peso (MXN)</translation>
+        <translation>Meksikansk peso</translation>
     </message>
     <message>
         <source>Malaysian Ringgit</source>
