@@ -18,6 +18,8 @@ Programvare gjør seg på norsk! Mitt hobby-prosjekt er SailfishOS-plattformen o
   - [Last ned fra OpenRepos](https://openrepos.net/content/karry/camera-buddy)
 - [Chum GUI app](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/sailfishos-chum-gui-no.ts): Alternativ App Store
   - [Last ned fra OpenRepos](https://openrepos.net/content/olf/sailfishoschum-gui-installer)
+- [Exrates](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-exrates.ts): Valutakalkulator
+  - [Last ned fra OpenRepos](https://openrepos.net/content/aviarus/exrates)
 - [Kaktus](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/kaktus-no_NB.ts): En RSS-leser som kan synkronisere mot noen utvalgte tjenester
   - [Last ned fra OpenRepos](https://openrepos.net/content/mkiol/kaktus)
 - [Mattermost](https://github.com/fsilye/SailfishOS-Apps-no_NB/blob/main/harbour-mattermost-nb.ts): En uoffisiell klient for chat-tjenesten Mattermost
