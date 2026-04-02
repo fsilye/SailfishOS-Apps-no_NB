@@ -369,15 +369,15 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>U.K. Pound Sterling</source>
-        <translation type="unfinished">Britiske pund sterling (GBP)</translation>
+        <translation>Britiske pund sterling (GBP)</translation>
     </message>
     <message>
         <source>Georgian Lari</source>
-        <translation type="unfinished"></translation>
+        <translation>Georgisk lari (GEL)</translation>
     </message>
     <message>
         <source>Ghanaian Cedi</source>
-        <translation type="unfinished"></translation>
+        <translation>Ghanesisk cedi (GHS)</translation>
     </message>
     <message>
         <source>Gibraltar Pound</source>
@@ -385,23 +385,23 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Gambian Dalasi</source>
-        <translation type="unfinished"></translation>
+        <translation>Gambisk dalasi (GMD)</translation>
     </message>
     <message>
         <source>Guinean Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Guineansk franc (GNF)</translation>
     </message>
     <message>
         <source>Guatemalan Quetzal</source>
-        <translation type="unfinished"></translation>
+        <translation>Guatemalansk quetzal (GTQ)</translation>
     </message>
     <message>
         <source>Guyanese Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Guyansk dollar (GYD)</translation>
     </message>
     <message>
         <source>Hong Kong Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Hongkong-dollar (HKD)</translation>
     </message>
     <message>
         <source>Honduran Lempira</source>
@@ -441,11 +441,11 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Icelandic Krona</source>
-        <translation type="unfinished"></translation>
+        <translation>Islandsk krone (ISK)</translation>
     </message>
     <message>
         <source>Jamaican Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Jamaicansk dollar (JMD)</translation>
     </message>
     <message>
         <source>Jordanian Dinar</source>
@@ -453,7 +453,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Japanese Yen</source>
-        <translation type="unfinished"></translation>
+        <translation>Japansk yen (JPY)</translation>
     </message>
     <message>
         <source>Kenyan Shilling</source>
@@ -465,7 +465,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>South Korean Won</source>
-        <translation type="unfinished"></translation>
+        <translation>Sørkoreansk won (KRW)</translation>
     </message>
     <message>
         <source>Kuwaiti Dinar</source>
@@ -513,7 +513,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Macedonian Denar</source>
-        <translation type="unfinished"></translation>
+        <translation>Makedonsk denar (MKD)</translation>
     </message>
     <message>
         <source>Myanma Kyat</source>
@@ -545,7 +545,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Mexican Peso</source>
-        <translation type="unfinished"></translation>
+        <translation>Meksikansk peso (MXN)</translation>
     </message>
     <message>
         <source>Malaysian Ringgit</source>
@@ -573,11 +573,11 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Nepalese Rupee</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepalsk rupi (NPR)</translation>
     </message>
     <message>
         <source>New Zealand Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Newzealandsk dollar (NZD)</translation>
     </message>
     <message>
         <source>Omani Rial</source>
@@ -589,7 +589,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Peruvian Nuevo Sol</source>
-        <translation type="unfinished"></translation>
+        <translation>Peruansk sol (PEN)</translation>
     </message>
     <message>
         <source>Papua New Guinean Kina</source>
@@ -689,7 +689,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Thai Baht</source>
-        <translation type="unfinished"></translation>
+        <translation>Thailandsk baht (THB)</translation>
     </message>
     <message>
         <source>Tajikistan Ruble</source>
