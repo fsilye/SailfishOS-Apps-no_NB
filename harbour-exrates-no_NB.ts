@@ -269,39 +269,39 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Bolivian Boliviano</source>
-        <translation type="unfinished"></translation>
+        <translation>Boliviansk boliviano (BOB)</translation>
     </message>
     <message>
         <source>Brazilian Real</source>
-        <translation type="unfinished"></translation>
+        <translation>Brasiliansk real (BRL)</translation>
     </message>
     <message>
         <source>Bahamian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahamansk dollar (BSD)</translation>
     </message>
     <message>
         <source>Botswana Pula</source>
-        <translation type="unfinished"></translation>
+        <translation>Botswansk pula (BWP)</translation>
     </message>
     <message>
         <source>Belarussian Ruble</source>
-        <translation type="unfinished"></translation>
+        <translation>Belarusisk rubel (BYN)</translation>
     </message>
     <message>
         <source>Belize Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Belizisk dollar (BZD)</translation>
     </message>
     <message>
         <source>Canadian Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanadisk dollar (CAD)</translation>
     </message>
     <message>
         <source>Congolese Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kongolesisk franc (CDF)</translation>
     </message>
     <message>
         <source>Swiss Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveitsisk franc (CHF)</translation>
     </message>
     <message>
         <source>Chilean Peso</source>
@@ -825,19 +825,19 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Faroese Króna</source>
-        <translation type="unfinished"></translation>
+        <translation>Færøysk krone (DKK)</translation>
     </message>
     <message>
         <source>Guernsey Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Guernsey-pund (GBP)</translation>
     </message>
     <message>
         <source>Isle of Man Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Man-pund (GBP)</translation>
     </message>
     <message>
         <source>Jersey Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Jersey-pund (GBP)</translation>
     </message>
     <message>
         <source>Kiribati Dollar</source>
