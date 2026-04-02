@@ -31,15 +31,15 @@ The APIs provide rates for different currencies therefore the currency your are 
     </message>
     <message>
         <source>Show search field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis søkefelt</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Hide search field</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul søkefelt</translation>
     </message>
 </context>
 <context>
