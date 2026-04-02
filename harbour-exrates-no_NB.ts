@@ -103,58 +103,58 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Select a base currency from the drop down menu. This requires a internet connection. New rates can be downloaded once per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg en basisvaluta fra rullegardinmenyen. Dette krever internettforbindelse. Nye kurser kan lastes ned én gang om dagen.</translation>
     </message>
     <message>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytt opp</translation>
     </message>
     <message>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytt ned</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Hide search field</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul søkefelt</translation>
     </message>
     <message>
         <source>Show search field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis søkefelt</translation>
     </message>
     <message>
         <source>Okay</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>%L1</source>
-        <translation type="unfinished"></translation>
+        <translation>%L1</translation>
     </message>
 </context>
 <context>
     <name>OptionPage</name>
     <message>
         <source>App Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>App innstillinger</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilde</translation>
     </message>
     <message>
         <source>Reset Currency List</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill valutaliste</translation>
     </message>
     <message>
         <source>Resetting List</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestiller valutaliste</translation>
     </message>
     <message>
         <source>This button resets the &apos;Convert to&apos; list to an alphabetical order.</source>
