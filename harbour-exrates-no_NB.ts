@@ -361,7 +361,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Euro</source>
-        <translation type="unfinished"></translation>
+        <translation>Euro (EUR)</translation>
     </message>
     <message>
         <source>Fiji Dollar</source>
@@ -369,7 +369,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>U.K. Pound Sterling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Britiske pund sterling (GBP)</translation>
     </message>
     <message>
         <source>Georgian Lari</source>
@@ -381,7 +381,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>Gibraltar Pound</source>
-        <translation type="unfinished"></translation>
+        <translation>Gibraltarsk pund (GIP)</translation>
     </message>
     <message>
         <source>Gambian Dalasi</source>
@@ -729,7 +729,7 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>U.S. Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Amerikansk dollar (USD)</translation>
     </message>
     <message>
         <source>Uruguayan Peso</source>
