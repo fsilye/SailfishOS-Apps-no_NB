@@ -673,11 +673,11 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>São Tomé and Príncipe Dobra</source>
-        <translation type="unfinished"></translation>
+        <translation>Saotomesisk dobra (STN)</translation>
     </message>
     <message>
         <source>Salvadoran Colon</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvadoransk colón (SVC)</translation>
     </message>
     <message>
         <source>Syrian pound</source>
@@ -857,31 +857,31 @@ API-ene tilbyr kurser for ulike valutaer, og det kan derfor hende at valutaen du
     </message>
     <message>
         <source>New Taiwan Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny taiwansk dollar (TWD)</translation>
     </message>
     <message>
         <source>Congo Franc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kongolesisk franc (CDF)</translation>
     </message>
     <message>
         <source>Special Drawing Rights</source>
-        <translation type="unfinished"></translation>
+        <translation>Spesielle trekkrettigheter (XDR)</translation>
     </message>
     <message>
         <source>Zimbabwean Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Zimbabwisk gold (ZiG)</translation>
     </message>
     <message>
         <source>Zimbabwean Dollar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zimbabwisk dollar (ZWL)</translation>
     </message>
     <message>
         <source>The server was not able to load rates for this currency. Please select a different base currency or use a different API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveren kunne ikke laste inn kurser for denne valutaen. Vennligst velg en annen basievaluta eller bruk et annet API.</translation>
     </message>
     <message>
         <source>The API response could not be processed. Please report a bug an GitHub. See About page for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>API-svaret kunne ikke behandles. Vennligst rapporter en feil på GitHub. Se «Om»-siden for detaljer.</translation>
     </message>
 </context>
 </TS>
