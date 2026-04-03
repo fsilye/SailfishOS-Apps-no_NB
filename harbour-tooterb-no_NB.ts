@@ -557,7 +557,7 @@
     </message>
     <message>
         <source>Quote</source>
-        <translation>Siter</translation>
+        <translation>Sitér</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Rediger</translation>
+        <translation>Rediger</translation>
     </message>
 </context>
 </TS>
