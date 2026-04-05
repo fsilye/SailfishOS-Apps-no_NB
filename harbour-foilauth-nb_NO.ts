@@ -320,87 +320,87 @@
     <message id="foilauth-generate_key_warning-text">
         <source>Once you have generated a new key, you are going to lose access to all the files encrypted by the old key. Note that the same key is used by all Foil apps, such as Foil Notes and Foil Pics. If you have forgotten your password, then keep in mind that most likely it&apos;s computationally easier to brute-force your password and recover the old key than to decrypt files for which the key is lost.</source>
         <extracomment>Warning shown prior to generating the new key</extracomment>
-        <translation>Once you have generated a new key, you are going to lose access to all the files encrypted by the old key. Note that the same key is used by all Foil apps, such as Foil Notes and Foil Pics. If you have forgotten your password, then keep in mind that most likely it&apos;s computationally easier to brute-force your password and recover the old key than to decrypt files for which the key is lost.</translation>
+        <translation>Når du har generert en ny nøkkel, vil du miste tilgangen til alle filer som er kryptert med den gamle nøkkelen. Merk at den samme nøkkelen brukes av alle Foil-apper, slik som Foil Notes og Foil Pics. Hvis du har glemt passordet ditt, bør du ha i bakhodet at det sannsynligvis er beregningsmessig enklere å gjette passordet (brute-force) for å gjenopprette den gamle nøkkelen, enn å dekryptere filer hvor nøkkelen er tapt.</translation>
     </message>
     <message id="foilauth-change_password_page-label-enter_passwords">
         <source>Please enter the current and the new password</source>
         <extracomment>Password change prompt</extracomment>
-        <translation>Please enter the current and the new password</translation>
+        <translation>Skriv inn nåværende og nytt passord</translation>
     </message>
     <message id="foilauth-change_password_page-text_field_label-current_password">
         <source>Current password</source>
         <extracomment>Placeholder and label for the current password prompt</extracomment>
-        <translation>Current password</translation>
+        <translation>Nåværende passord</translation>
     </message>
     <message id="foilauth-change_password_page-text_field_label-new_password">
         <source>New password</source>
         <extracomment>Placeholder and label for the new password prompt</extracomment>
-        <translation>New password</translation>
+        <translation>Nytt passord</translation>
     </message>
     <message id="foilauth-change_password_page-button-change_password">
         <source>Change password</source>
         <extracomment>Button label</extracomment>
-        <translation>Change password</translation>
+        <translation>Endre passord</translation>
     </message>
     <message id="foilauth-confirm_password-info_label">
         <source>Please type in your new password one more time</source>
         <extracomment>Password confirmation label</extracomment>
-        <translation>Please type in your new password one more time</translation>
+        <translation>Skriv inn ditt nytt nye passord en gang til</translation>
     </message>
     <message id="foilauth-confirm_password-description">
         <source>Make sure you don&apos;t forget your password. It&apos;s impossible to either recover it or to access the encrypted tokens without knowing it. Better take it seriously.</source>
         <extracomment>Password confirmation description</extracomment>
-        <translation>Make sure you don&apos;t forget your password. It&apos;s impossible to either recover it or to access the encrypted tokens without knowing it. Better take it seriously.</translation>
+        <translation>Pass på at du ikke glemmer passordet ditt. Det er umulig å enten gjenopprette det eller få tilgang til de krypterte tokenene uten å kjenne det. Det er best å ta dette på alvor.</translation>
     </message>
     <message id="foilauth-confirm_password-placeholder-new_password">
         <source>New password again</source>
         <extracomment>Placeholder for the password confirmation prompt</extracomment>
-        <translation>New password again</translation>
+        <translation>Nytt passord igjen</translation>
     </message>
     <message id="foilauth-confirm_password-label-new_password">
         <source>New password</source>
         <extracomment>Label for the password confirmation prompt</extracomment>
-        <translation>New password</translation>
+        <translation>Nytt passord</translation>
     </message>
     <message id="foilauth-confirm_password-button">
         <source>Confirm</source>
         <extracomment>Button label (confirm password)</extracomment>
-        <translation>Confirm</translation>
+        <translation>Bekreft</translation>
     </message>
     <message id="foilauth-add_token-title">
         <source>Add token</source>
         <extracomment>Dialog title</extracomment>
-        <translation>Add token</translation>
+        <translation>Legg til token</translation>
     </message>
     <message id="foilauth-edit_token-title">
         <source>Edit token</source>
         <extracomment>Dialog title</extracomment>
-        <translation>Edit token</translation>
+        <translation>Rediger token</translation>
     </message>
     <message id="foilauth-edit_token-save">
         <source>Save</source>
         <extracomment>Dialog button</extracomment>
-        <translation>Save</translation>
+        <translation>Lagre</translation>
     </message>
     <message id="foilauth-remorse-deleting_selected_token">
         <source>Deleting selected token</source>
         <extracomment>Remorse popup text (single token selected)</extracomment>
-        <translation>Deleting selected token</translation>
+        <translation>Sletter valgt token</translation>
     </message>
     <message id="foilauth-remorse-deleting_selected_tokens">
         <source>Deleting selected tokens</source>
         <extracomment>Remorse popup text (multiple tokens selected)</extracomment>
-        <translation>Deleting selected tokens</translation>
+        <translation>Sletter valgte tokens</translation>
     </message>
     <message id="foilauth-select_page-header">
         <source>Select tokens</source>
         <extracomment>Page title</extracomment>
-        <translation>Select tokens</translation>
+        <translation>Velg tokens</translation>
     </message>
     <message id="foilauth-select_page-hint_delete_selected">
         <source>Delete selected tokens</source>
         <extracomment>Hint text</extracomment>
-        <translation>Delete selected tokens</translation>
+        <translation>Slett valgte tokens</translation>
     </message>
     <message id="foilauth-select_page-hint_export_selected">
         <source>Export selected tokens via QR code</source>
