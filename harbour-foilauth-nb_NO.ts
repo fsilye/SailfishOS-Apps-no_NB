@@ -114,37 +114,37 @@
     <message id="foilauth-token-digest_algorithm-label">
         <source>Digest algorithm</source>
         <extracomment>Combo box label</extracomment>
-        <translation>Digest algorithm</translation>
+        <translation>Digest-algoritme</translation>
     </message>
     <message id="foilauth-token-digest_algorithm-default">
         <source>%1 (default)</source>
         <extracomment>Menu item for the default digest algorithm</extracomment>
-        <translation>%1 (default)</translation>
+        <translation>%1 (standard)</translation>
     </message>
     <message id="foilauth-token-digits-text">
         <source>Digits</source>
         <extracomment>Text field label (number of password digits)</extracomment>
-        <translation>Digits</translation>
+        <translation>Siffer</translation>
     </message>
     <message id="foilauth-token-digits-placeholder">
         <source>Number of password digits</source>
         <extracomment>Text field placeholder (number of password digits)</extracomment>
-        <translation>Number of password digits</translation>
+        <translation>Antall siffer i passordet</translation>
     </message>
     <message id="foilauth-token-timeshift-text">
         <source>Time shift (seconds)</source>
         <extracomment>Text field label (number of password digits)</extracomment>
-        <translation>Time shift (seconds)</translation>
+        <translation>Tidsforskyving (sekunder)</translation>
     </message>
     <message id="foilauth-token-timeshift-placeholder">
         <source>OTP time shift, in seconds</source>
         <extracomment>Text field placeholder (number of password digits)</extracomment>
-        <translation>OTP time shift, in seconds</translation>
+        <translation>OTP-tidsforskyvning i sekunder</translation>
     </message>
     <message id="foilauth-token-counter-text">
         <source>Counter value</source>
         <extracomment>Text field label (HOTP counter value)</extracomment>
-        <translation>Counter value</translation>
+        <translation>Tellerverdi</translation>
     </message>
     <message id="foilauth-token-type-label">
         <source>Type</source>
@@ -154,32 +154,32 @@
     <message id="foilauth-token-type-totp">
         <source>Time-based (TOTP)</source>
         <extracomment>Menu item for time based token</extracomment>
-        <translation>Time-based (TOTP)</translation>
+        <translation>Tidsbasert (TOTP)</translation>
     </message>
     <message id="foilauth-token-type-hotp">
         <source>Counter-based (HOTP)</source>
         <extracomment>Menu item for counter based token</extracomment>
-        <translation>Counter-based (HOTP)</translation>
+        <translation>Tellerbasert (HOTP)</translation>
     </message>
     <message id="foilauth-token-type-steam">
         <source>Steam</source>
         <extracomment>Menu item for time based token</extracomment>
-        <translation>Steam</translation>
+        <translation>Steam (OTP)</translation>
     </message>
     <message id="foilauth-token-scan-button">
         <source>Scan QR code</source>
         <extracomment>Button label, opens QR code scan window</extracomment>
-        <translation>Scan QR code</translation>
+        <translation>Skann QR-kode</translation>
     </message>
     <message id="foilauth-notification-unsupported_qrcode">
         <source>Invalid or unsupported QR code</source>
         <extracomment>Warning notification</extracomment>
-        <translation>Invalid or unsupported QR code</translation>
+        <translation>Ugyldig eller ustøttet QR-kode</translation>
     </message>
     <message id="foilauth-scan-title">
         <source>Scan QR code</source>
         <extracomment>Page title (suggestion to scan QR code)</extracomment>
-        <translation>Scan QR code</translation>
+        <translation>Skann QR-kode</translation>
     </message>
     <message id="foilauth-scan-zoom_label">
         <source>Zoom</source>
@@ -189,133 +189,133 @@
     <message id="foilauth-scan-hint_toggle_flash">
         <source>Toggle flashlight</source>
         <extracomment>Hint label</extracomment>
-        <translation>Toggle flashlight</translation>
+        <translation>Slå lommelykt på/av</translation>
     </message>
     <message id="foilauth-scan-hint_aspect_ratio">
         <source>Switch the aspect ratio between 9:16 and 3:4</source>
         <extracomment>Hint label</extracomment>
-        <translation>Switch the aspect ratio between 9:16 and 3:4</translation>
+        <translation>Veksle mellom bildeformatene 9:16 og 3:4</translation>
     </message>
     <message id="foilauth-scan-skip_button">
         <source>Skip</source>
         <extracomment>Button label (skip scanning)</extracomment>
-        <translation>Skip</translation>
+        <translation>Hopp over</translation>
     </message>
     <message id="foilauth-foil_apps_warning">
         <source>Note that all Foil apps use the same encryption key and password.</source>
         <extracomment>Warning text, small size label below the password prompt</extracomment>
-        <translation>Note that all Foil apps use the same encryption key and password.</translation>
+        <translation>Merk at alle Foil-apper bruker samme krypteringsnøkkel og passord.</translation>
     </message>
     <message id="foilauth-import-accept">
         <source>Yes</source>
         <extracomment>Dialog button</extracomment>
-        <translation>Yes</translation>
+        <translation>Ja</translation>
     </message>
     <message id="foilauth-import-cancel">
         <source>No</source>
         <extracomment>Dialog button</extracomment>
-        <translation>No</translation>
+        <translation>Nei</translation>
     </message>
     <message id="foilauth-import-first_one">
         <source>FoilAuth has found 1 unencrypted SailOTP token on your device. Would you like to import and encrypt it?</source>
         <extracomment>Text for SailOTP import page (first import, one token)</extracomment>
-        <translation>FoilAuth has found an unencrypted SailOTP token on your device. Would you like to import and encrypt it?</translation>
+        <translation>FoilAuth har funnet et ukryptert SailOTP-token på enheten din. Vil du importere og kryptere det?</translation>
     </message>
     <message id="foilauth-import-first_many" numerus="yes">
         <source>FoilAuth has found %0 unencrypted SailOTP token(s) on your device. Would you like to import and encrypt them?</source>
         <extracomment>Text for SailOTP import page (first import, multiple tokens)</extracomment>
         <translation>
-            <numerusform>FoilAuth has found %0 unencrypted SailOTP token on your device. Would you like to import and encrypt them?</numerusform>
-            <numerusform>FoilAuth has found %0 unencrypted SailOTP tokens on your device. Would you like to import and encrypt them?</numerusform>
+            <numerusform>FoilAuth har funnet %0 ukrypterte SailOTP-token på enheten din. Vil du importere og kryptere den?</numerusform>
+            <numerusform>FoilAuth har funnet %0 ukrypterte SailOTP-tokens på enheten din. Vil du importere og kryptere dem?</numerusform>
         </translation>
     </message>
     <message id="foilauth-import-new_one">
         <source>FoilAuth has found 1 new unencrypted SailOTP token on your device. Would you like to import and encrypt it?</source>
         <extracomment>Text for SailOTP import page (one new token is found)</extracomment>
-        <translation>FoilAuth has found a new unencrypted SailOTP token on your device. Would you like to import and encrypt it?</translation>
+        <translation>FoilAuth har funnet et nytt ukryptert SailOTP-token på enheten din. Vil du importere og kryptere det?</translation>
     </message>
     <message id="foilauth-import-new_many" numerus="yes">
         <source>FoilAuth has found %0 new unencrypted SailOTP token(s) on your device. Would you like to import and encrypt them?</source>
         <extracomment>Text for SailOTP import page (multiple new tokens were found)</extracomment>
         <translation>
-            <numerusform>FoilAuth has found %0 new unencrypted SailOTP token on your device. Would you like to import and encrypt them?</numerusform>
-            <numerusform>FoilAuth has found %0 new unencrypted SailOTP tokens on your device. Would you like to import and encrypt them?</numerusform>
+            <numerusform>FoilAuth har funnet %0 nye ukrypterte SailOTP-token på enheten din. Vil du importere og kryptere det?</numerusform>
+            <numerusform>FoilAuth har funnet %0 nye ukrypterte SailOTP-tokens på enheten din. Vil du importere og kryptere dem?</numerusform>
         </translation>
     </message>
     <message id="foilauth-notification-copied_to_clipboard">
         <source>Password copied to clipboard</source>
         <extracomment>Pop-up notification</extracomment>
-        <translation>Password copied to clipboard</translation>
+        <translation>Passord kopiert til utklippstavle</translation>
     </message>
     <message id="foilauth-menu-change_foil_password">
         <source>Change password</source>
         <extracomment>Pulley menu item, changes Foil password</extracomment>
-        <translation>Change password</translation>
+        <translation>Endre passord</translation>
     </message>
     <message id="foilauth-menu-lock">
         <source>Lock</source>
         <extracomment>Pulley menu item, locks the secrets</extracomment>
-        <translation>Lock</translation>
+        <translation>Lås</translation>
     </message>
     <message id="foilauth-menu-organize">
         <source>Organize</source>
         <extracomment>Pulley menu item, opens organize page</extracomment>
-        <translation>Organize</translation>
+        <translation>Organiser</translation>
     </message>
     <message id="foilauth-menu-select_tokens">
         <source>Select</source>
         <extracomment>Pulley menu item, opens selection page</extracomment>
-        <translation>Select</translation>
+        <translation>Velg</translation>
     </message>
     <message id="foilauth-menu-select_none">
         <source>Deselect all</source>
         <extracomment>Pulley menu item</extracomment>
-        <translation>Deselect all</translation>
+        <translation>Fravelg alle</translation>
     </message>
     <message id="foilauth-menu-select_all">
         <source>Select all</source>
         <extracomment>Pulley menu item, selects all tokens</extracomment>
-        <translation>Select all</translation>
+        <translation>Velg alle</translation>
     </message>
     <message id="foilauth-menu-new_auth_token">
         <source>Add token</source>
         <extracomment>Pulley menu item, creates a new authentication token</extracomment>
-        <translation>Add token</translation>
+        <translation>Legg til token</translation>
     </message>
     <message id="foilauth-menu-copy_password">
         <source>Copy password</source>
         <extracomment>Context menu item (copy password to clipboard)</extracomment>
-        <translation>Copy password</translation>
+        <translation>Kopier passord</translation>
     </message>
     <message id="foilauth-menu-show_qr_code">
         <source>Show QR code</source>
         <extracomment>Context menu item</extracomment>
-        <translation>Show QR code</translation>
+        <translation>Vis QR-kode</translation>
     </message>
     <message id="foilauth-menu-edit">
         <source>Edit</source>
         <extracomment>Generic menu item</extracomment>
-        <translation>Edit</translation>
+        <translation>Rediger</translation>
     </message>
     <message id="foilauth-menu-delete">
         <source>Delete</source>
         <extracomment>Generic menu item</extracomment>
-        <translation>Delete</translation>
+        <translation>Slett</translation>
     </message>
     <message id="foilauth-menu-delete_remorse">
         <source>Deleting</source>
         <extracomment>Remorse popup text</extracomment>
-        <translation>Deleting</translation>
+        <translation>Sletter</translation>
     </message>
     <message id="foilauth-password_list-placeholder">
         <source>You do not have any encrypted tokens</source>
         <extracomment>Placeholder text</extracomment>
-        <translation>You do not have any encrypted tokens</translation>
+        <translation>Du har ingen krypterte tokens</translation>
     </message>
     <message id="foilauth-generate_key_warning-title">
         <source>Warning</source>
         <extracomment>Title for the new key warning</extracomment>
-        <translation>Warning</translation>
+        <translation>Advarsel</translation>
     </message>
     <message id="foilauth-generate_key_warning-text">
         <source>Once you have generated a new key, you are going to lose access to all the files encrypted by the old key. Note that the same key is used by all Foil apps, such as Foil Notes and Foil Pics. If you have forgotten your password, then keep in mind that most likely it&apos;s computationally easier to brute-force your password and recover the old key than to decrypt files for which the key is lost.</source>
