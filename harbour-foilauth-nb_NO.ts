@@ -405,114 +405,114 @@
     <message id="foilauth-select_page-hint_export_selected">
         <source>Export selected tokens via QR code</source>
         <extracomment>Hint text</extracomment>
-        <translation>Export selected tokens via QR code</translation>
+        <translation>Eksporter valgte tokens via QR-kode</translation>
     </message>
     <message id="foilauth-export_page-title">
         <source>Code %1 of %2</source>
         <extracomment>Page header</extracomment>
-        <translation>Code %1 of %2</translation>
+        <translation>Kode %1 av %2</translation>
     </message>
     <message id="foilauth-select_tokens-title-add_tokens">
         <source>Select tokens to add</source>
         <extracomment>Dialog title</extracomment>
-        <translation>Select tokens to add</translation>
+        <translation>Velg tokens som skal legges til</translation>
     </message>
     <message id="foilauth-organize-groups-title">
         <source>Manage groups</source>
         <extracomment>Page header title</extracomment>
-        <translation>Manage groups</translation>
+        <translation>Administrer grupper</translation>
     </message>
     <message id="foilauth-organize-groups-description">
         <source>Create, delete and rename groups</source>
         <extracomment>Page header descriptions</extracomment>
-        <translation>Create, delete and rename groups</translation>
+        <translation>Opprett, slett og endre navn på grupper</translation>
     </message>
     <message id="foilauth-organize-groups-menu-rename">
         <source>Rename</source>
         <extracomment>Context menu item</extracomment>
-        <translation>Rename</translation>
+        <translation>Endre navn</translation>
     </message>
     <message id="foilauth-organize-groups-menu-delete">
         <source>Delete</source>
         <extracomment>Context menu item</extracomment>
-        <translation>Delete</translation>
+        <translation>Slett</translation>
     </message>
     <message id="foilauth-organize-groups-remorse-deleting">
         <source>Deleting</source>
         <extracomment>Remorse item label</extracomment>
-        <translation>Deleting</translation>
+        <translation>Sletter</translation>
     </message>
     <message id="foilauth-organize-groups-add_group">
         <source>Add group</source>
         <extracomment>List footer button label</extracomment>
-        <translation>Add group</translation>
+        <translation>Legg til gruppe</translation>
     </message>
     <message id="foilauth-organize-groups-new_group">
         <source>New group</source>
         <extracomment>Default name for the new group</extracomment>
-        <translation>New group</translation>
+        <translation>Ny gruppe</translation>
     </message>
     <message id="foilauth-organize-tokens-title">
         <source>Organize tokens</source>
         <extracomment>Page header title</extracomment>
-        <translation>Organize tokens</translation>
+        <translation>Organiser tokens</translation>
     </message>
     <message id="foilauth-organize-tokens-description">
         <source>Press, hold and drag to reorder</source>
         <extracomment>Page header descriptions</extracomment>
-        <translation>Press, hold and drag to reorder</translation>
+        <translation>Trykk, hold og dra for å endre rekkefølge</translation>
     </message>
     <message id="jail-explanation">
         <source>This application is not designed to function in a sandbox. Try installing the latest version from &lt;b&gt;&lt;a href=&apos;%1&apos;&gt;OpenRepos&lt;/a&gt;&lt;/b&gt; or &lt;b&gt;&lt;a href=&apos;%2&apos;&gt;GitHub&lt;/a&gt;&lt;/b&gt;, it may implement some sort of a workaround. No guarantee, though.</source>
         <extracomment>Label text explaining the sandbox situation</extracomment>
-        <translation>This application is not designed to function in a sandbox. Try installing the latest version from &lt;b&gt;&lt;a href=&apos;%1&apos;&gt;OpenRepos&lt;/a&gt;&lt;/b&gt; or &lt;b&gt;&lt;a href=&apos;%2&apos;&gt;GitHub&lt;/a&gt;&lt;/b&gt;, it may implement some sort of a workaround. No guarantee, though.</translation>
+        <translation>Denne applikasjonen er ikke laget for å fungere i en sandkasse. Prøv å installere den nyeste versjonen fra <b><a href='%1'>OpenRepos</a></b> eller <b><a href='%2'>GitHub</a></b>; den kan inneholde en form for omgåelse. Ingen garantier, dessverre.</translation>
     </message>
     <message id="jail-terminal_hint">
         <source>If you have developer mode enabled, you may also try running &lt;b&gt;%1&lt;/b&gt; from the terminal. Sorry for the inconvenience!</source>
         <extracomment>Hint suggesting to run the app from the terminal</extracomment>
-        <translation>If you have developer mode enabled, you may also try running &lt;b&gt;%1&lt;/b&gt; from the terminal. Sorry for the inconvenience!</translation>
+        <translation>Hvis du har aktivert utviklermodus, kan du også prøve å kjøre <b>%1</b> fra terminalen. Beklager bryderiet!</translation>
     </message>
     <message id="foilauth-settings_page-header-version">
         <source>Version %1</source>
         <extracomment>Settings page header description (app version)</extracomment>
-        <translation>Version %1</translation>
+        <translation>Versjon %1</translation>
     </message>
     <message id="foilauth-settings_page-front_camera-text">
         <source>Use the front camera</source>
         <extracomment>Text switch label</extracomment>
-        <translation>Use the front camera</translation>
+        <translation>Bruk frontkamera</translation>
     </message>
     <message id="foilauth-settings_page-front_camera-description">
         <source>You can use the front camera for scanning QR codes in case if your back camera is scratched.</source>
         <extracomment>Text switch description</extracomment>
-        <translation>You can use the front camera for scanning QR codes in case if your back camera is scratched.</translation>
+        <translation>Du kan bruke frontkameraet til å skanne QR-koder dersom det bakre kameraet er riper opp.</translation>
     </message>
     <message id="foilauth-settings_page-autolock-text">
         <source>Automatic locking</source>
         <extracomment>Text switch label</extracomment>
-        <translation>Automatic locking</translation>
+        <translation>Automatisk låsing</translation>
     </message>
     <message id="foilauth-settings_page-autolock-description">
         <source>Require to enter Foil password after unlocking the screen.</source>
         <extracomment>Text switch description</extracomment>
-        <translation>Require to enter Foil password after unlocking the screen.</translation>
+        <translation>Krev Foil-passord etter at skjermen er låst opp.</translation>
     </message>
     <message id="foilauth-settings_page-autolock_delay-label">
         <source>Locking delay</source>
         <extracomment>Slider label</extracomment>
-        <translation>Locking delay</translation>
+        <translation>Forsinkelse for låsing</translation>
     </message>
     <message id="foilauth-settings_page-autolock_delay-value-no_delay">
         <source>No delay</source>
         <extracomment>Slider value (no delay)</extracomment>
-        <translation>No delay</translation>
+        <translation>Ingen forsinkelse</translation>
     </message>
     <message id="foilauth-settings_page-autolock_delay-value-sec" numerus="yes">
         <source>%1 sec</source>
         <extracomment>Slider value</extracomment>
         <translation>
-            <numerusform>%1 sec</numerusform>
-            <numerusform>%1 sec</numerusform>
+            <numerusform>%1 sek</numerusform>
+            <numerusform>%1 sek</numerusform>
         </translation>
     </message>
     <message id="foilauth-settings_page-autolock_delay-value-min" numerus="yes">
